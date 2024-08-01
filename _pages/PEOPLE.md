@@ -36,52 +36,8 @@ feature_row:
     excerpt: >
       Postdoc <br>
       wangjunliang:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/shenbihan1.jpg
-    alt: "placeholder image 2"
-    title: "Bihan Shen"
-    excerpt: >
-      Ph.D. Student <br>
-      shenbihan2020:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/likunshi.jpg
-    title: "Kunshi Li"
-    excerpt: >
-      Ph.D. Student <br>
-      likunshi2021:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/wangheqi.jpg
-    title: "Heqi Wang"
-    excerpt: >
-      Ph.D. Student <br>
-      wangheqi2021:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/yanxi.jpg
-    title: "Xi Yan"
-    excerpt: >
-      Ph.D. Student <br>
-      yanxi2021:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/chenwanhong2.jpg
-    title: "Wanhong Chen"
-    excerpt: >
-      M.Sc. Student <br>
-      chenwanhong2022:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/chenxufeng.jpg
-    title: "Xufeng Chen"
-    excerpt: >
-      M.Sc. Student <br>
-      chenxufeng2022:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/lixueliang.jpg
-    title: "Xueliang Li"
-    excerpt: >
-      M.Sc. Student <br>
-      lixueliang2022:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/caijingxuan.jpg
-    title: "Jingxuan Cai"
-    excerpt: >
-      M.Sc. Student <br>
-      caijingxuan2023:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/yuanjiao.jpg
-    title: "Jiao Yuan"
-    excerpt: >
-      M.Sc. Student <br>
-      yuanjiao2023:paperclip:sinh**.**ac**.**cn
+
+    
 feature_row2:
   - image_path: /assets/img/pic/lihong1.jpg
     alt: "Hong Li"
