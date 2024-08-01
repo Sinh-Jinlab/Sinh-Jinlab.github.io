@@ -8,7 +8,6 @@ header:
   overlay_image: /assets/img/photos/W020130816502215805063.jpg
 feature_row3:
   - image_path: /assets/img/photos/W020130816502215620475.jpg
-    image_caption: "Image credit: [Route Ghisi](http://www.ihb.cas.cn/gkjj/lsyg/201308/t20130816_3913407.html)"
     alt: "placeholder image 2"
     title: "JIN Wenfei"
     excerpt: >
