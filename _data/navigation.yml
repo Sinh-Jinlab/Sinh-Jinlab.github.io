@@ -1,7 +1,26 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "HOME"
+    url: https://lihonglab.github.io/
+  - title: "PEOPLE"
+    url: "/PEOPLE/"
+  - title: "PUBLICATIONS"
+    url: "/PUBLICATIONS/"
+  - title: "NEWS"
+    url: "/NEWS/"
+  - title: "JOIN US"
+    url: "/join_us/"
+  - title: "GALLERY"
+    url: "/GALLERY/"
+  - title: "CONTACT"
+    url: "/CONTACT/"
+
+#  - title:
+#    url: 
+#  - title:
+#    url:
+  # - title: "RESOURCES"
+  #   url: "/RESOURCES/" 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
