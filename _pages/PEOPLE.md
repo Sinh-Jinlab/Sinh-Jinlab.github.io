@@ -51,7 +51,7 @@ feature_row2:
       <br>
 
       <small>
-      May 2023 - present: Principal Investigator, Shanghai Institute of Nutrition and Health, CAS <br>
+      May 2024 - present: Principal Investigator, Shanghai Institute of Nutrition and Health, CAS <br>
       Mar 2017 - May 2023: Associate Professor, Southern University of Science and Technology <br>
       Jan 2013 - Mar 2017: Postdoc fellow, National Institutes of Health (NIH) <br>
       Jan 2012 - Dec 2012: Assistant researcher, Chinese Academy of Sciences and Max Planck Society Partner Institute for Computational Biology (PICB), SIBS, CAS <br>
