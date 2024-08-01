@@ -18,7 +18,7 @@ feature_row:
     excerpt: >
       Research Assistant <br>
       pujing:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/孙靖.png
+  - image_path: /assets/img/pic/孙靖.jpg
     alt: "123"
     title: "SUN Jing"
     excerpt: >
