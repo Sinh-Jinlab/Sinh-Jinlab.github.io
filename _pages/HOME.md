@@ -1,12 +1,12 @@
 ---
-title: "Welcome to Cancer Systems Biology group (CSB)!"
+title: "Welcome to Laboratory of Multi-omics and Tumor (MOT)!"
 layout: splash
 permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/img/home/bg4.jpg
-excerpt: 'The goal of **CSB (PI: Hong Li)**  is to understand cancer biology by computational approaches and high-throughput experiments. CSB focuses on mining and integration of omics data to identify biomarkers and key molecular events related to cancer evolution and treatment, and then construct prediction models for patient stratification. Currently, we are interested in developing new algorithms through artificial intelligence techniques to analyze single-cell and spatial omics data and apply them to understand progression from precancerous stages to cancer.'
+excerpt: 'The long-term goal of **MOT (PI: JIN Wenfei)**  is to develop efficient personalized treatment for cancers based on patients’ genetic background. In the near future, the lab will focus on investigating genetic/epigenetic heterogeneity and micro-evolution of cancer cells using single cell sequencing related technologies.'
 feature_row1:
   - image_path: /assets/img/home/ai_gene.jpg
     title: "Artificial Intelligence"
