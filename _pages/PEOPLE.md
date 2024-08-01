@@ -58,5 +58,13 @@ feature_row2:
       Sept 2006 - Dec 2011: Ph.D. in Computational Biology, PICB and University of Chinese Academies of Sciences <br>
       Sept 2001 - Jul 2006: B.Sc. in Biotechnology, Zhengzhou University, China <br></small>
       <br>
+---
 
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row %}
+
+
+{% include feature_row id="feature_row3" type="left" %}
 
