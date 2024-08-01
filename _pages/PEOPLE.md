@@ -18,12 +18,12 @@ feature_row:
     excerpt: >
       Research Assistant <br>
       pujing:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/tangzhixuan.jpg
+  - image_path: /assets/img/pic/孙靖.jpg
     alt: "123"
-    title: "Zhixuan Tang"
+    title: "SUN Jing"
     excerpt: >
-      Laboratory Manager <br>
-      zxtang:paperclip:sinh**.**ac**.**cn
+      Research Assistant <br>
+      sunjing:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/jingsiyu.jpg
     alt: "placeholder image 2"
     title: "Siyu Jing"
