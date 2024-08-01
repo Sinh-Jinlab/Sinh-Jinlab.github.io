@@ -15,14 +15,14 @@ feature_row1:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row2:
-  - image_path: /assets/img/home/standsp.jpg
+  - image_path: /assets/img/home/231663896376256431.jpg
     title: "Bioinformatics and identifying genetic/epigenetic changes that drive oncogenesis"
    
     url: "/PUBLICATIONS/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row3:
-  - image_path: /assets/img/home/multiomics.jpg
+  - image_path: /assets/img/home/151671068743787022.jpg
     title: "Developing cancer prediction and treatment model for precision medicine"
    
     url: "/PUBLICATIONS/"
