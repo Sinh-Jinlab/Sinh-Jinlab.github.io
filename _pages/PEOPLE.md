@@ -24,18 +24,18 @@ feature_row:
     excerpt: >
       Research Assistant <br>
       sunjing:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/jingsiyu.jpg
+  - image_path: /assets/img/pic/虞诗雅.jpg
     alt: "placeholder image 2"
-    title: "Siyu Jing"
+    title: "YU Shiya"
     excerpt: >
-      Ph.D. Student <br>
-      jingsiyu2020:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/lijiarong.jpg
+      Postdoc <br>
+      yushiya:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/王军亮.jpg
     alt: "placeholder image 2"
-    title: "Jiarong Li"
+    title: "WANG Junliang"
     excerpt: >
-      Ph.D. Student <br>
-      lijiarong2020:paperclip:sinh**.**ac**.**cn
+      Postdoc <br>
+      wangjunliang:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/shenbihan1.jpg
     alt: "placeholder image 2"
     title: "Bihan Shen"
