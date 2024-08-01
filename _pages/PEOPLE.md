@@ -12,12 +12,12 @@ header:
   overlay_image: /assets/img/photos/header8.jpg
 # excerpt: " <br> <br> <br>"
 feature_row:
-  - image_path: /assets/img/pic/linping.jpg
+  - image_path: /assets/img/pic/浦靖.jpg
     alt: "xxx"
-    title: "Ping Lin"
+    title: "PU Jing"
     excerpt: >
-      Associate Professor <br>
-      linping:paperclip:sinh**.**ac**.**cn
+      Research Assistant <br>
+      pujing:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/tangzhixuan.jpg
     alt: "123"
     title: "Zhixuan Tang"
