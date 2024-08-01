@@ -39,60 +39,24 @@ feature_row:
 
     
 feature_row2:
-  - image_path: /assets/img/pic/lihong1.jpg
-    alt: "Hong Li"
-    title: "Hong Li"
+  - image_path: /assets/img/pic/靳文菲.jpg
+    alt: "JIN Wenfei"
+    title: "JIN Wenfei"
     excerpt: >
       Professor, Principal Investigator <br>
       Key Laboratory of Computational Biology, <br>
       Shanghai Institute of Nutrition and Health (SINH), <br>
       Chinese Academy of Sciences (CAS) <br>
-      Email: lihong01:paperclip:sinh**.**ac**.**cn, lihong01:paperclip:sibs**.**ac**.**cn <br>
+      Email: jinwf:paperclip:sinh**.**ac**.**cn <br>
       <br>
 
       <small>
-      2020 - Present Professor, Principal Investigator, SINH, CAS, P.R.China <br>
-      2019 - 2020 Professor, Principal Investigator, PICB, CAS, P.R.China <br>
-      2013 - 2019 Assistant professor, sinh, P.R.China  (Group of Prof. Yixue Li). <br>
-      2010 - 2013 Postdoctoral Fellow in  Computational Genomics. Institute for Systems Biology, Seattle, WA, USA  (Laboratory of Prof. Leroy Hood). <br>
-      2005 - 2010 Ph.D. in Bioinformatics. Key Lab of  Systems Biology, CAS, P.R.China (Group of Prof. Yixue  Li). <br>
-      2001 - 2005 B.S. in Information Science and  Computer Technology, Central South University. <br></small>
+      May 2023 - present: Principal Investigator, Shanghai Institute of Nutrition and Health, CAS <br>
+      Mar 2017 - May 2023: Associate Professor, Southern University of Science and Technology <br>
+      Jan 2013 - Mar 2017: Postdoc fellow, National Institutes of Health (NIH) <br>
+      Jan 2012 - Dec 2012: Assistant researcher, Chinese Academy of Sciences and Max Planck Society Partner Institute for Computational Biology (PICB), SIBS, CAS <br>
+      Sept 2006 - Dec 2011: Ph.D. in Computational Biology, PICB and University of Chinese Academies of Sciences <br>
+      Sept 2001 - Jul 2006: B.Sc. in Biotechnology, Zhengzhou University, China <br></small>
       <br>
 
-      <small>2021 National Natural Science Found for Excellent Youth Scientists <br></small>
-feature_row3:
-  - image_path: /assets/img/pic/ffym.jpg
-    alt: "xxx"
-    title: "Fangyoumin Feng"
-    excerpt: >
-      Postdoc (2020-2022)<br>
-      fengfangyoumin:paperclip:picb**.**ac**.**cn
 
----
-
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row %}
-
-<div class="feature__wrapper">
-<h1>Alumni</h1>
-<!-- <p>Fangyoumin Feng, Postdoc (2020-2022)</p>
-    <div class="feature__item--left">
-      <div class="archive__item">
-        <div class="archive__item-teaser">
-          <img src="/assets/img/pic/ffym.jpg"
-                alt="xxx">
-        </div>
-        <div class="archive__item-body">
-            <h2 class="archive__item-title">Fangyoumin Feng</h2>
-            <div class="archive__item-excerpt">
-              Postdoc (2020-2022)<br>
-              fengfangyoumin:paperclip:picb.ac.cn
-            </div>
-        </div>
-      </div>
-    </div> -->
-</div>
-
-{% include feature_row id="feature_row3" type="left" %}
