@@ -13,7 +13,7 @@ layout: single
 ---
 # Selected publications
 
-[1]	Guanqun Ren#, Yime Zhang#, Jiamin Liu#, Wenwen Cheng#, Di Wu, Mengwei Han, Yanyu Zeng, Xingyu Zhao, Luni Hu, Min Zeng, Rama Krishna Gurram, Xiaole Hu, Bo Zhou, Zhiyuan Hou, Jinfang Zhu, Wenfei Jin*, Chao Zhong*. Decreased GATA3 levels cause changed mouse cutaneous innate lymphoid cell fate, facilitating hair follicle recycling. Developmental Cell. 2024. 59:1-15.
+[1]	Guanqun Ren#, Yime Zhang#, Jiamin Liu#, Wenwen Cheng#, Di Wu, Mengwei Han, Yanyu Zeng, Xingyu Zhao, Luni Hu, Min Zeng, Rama Krishna Gurram, Xiaole Hu, Bo Zhou, Zhiyuan Hou, Jinfang Zhu, **Wenfei Jin***, Chao Zhong*. Decreased GATA3 levels cause changed mouse cutaneous innate lymphoid cell fate, facilitating hair follicle recycling. Developmental Cell. 2024. 59:1-15.
 
 [2]	Chunliu Huang#, Xuefei Wang#, Yingzhao Wang#, Yongyi Feng, Xiumei Wang, Shan Chen, Peidong Yan, Jing Liao, Qi Zhang, Chengzhou Mao, Yang Li, Lixiang Wang, Xinyu Wang, Wei Yi, Weibin Cai, Shoudeng Chen, Ni Hong*, Weiling He*, Jun Chen*, Wenfei Jin*. Sirpα on tumor-associated myeloid cells restrains antitumor immunity in colorectal cancer independent of its interaction with CD47. Nature Cancer. 2024. 5(3):500-516.
 
