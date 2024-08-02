@@ -18,7 +18,7 @@ feature_row:
     excerpt: >
       Research Assistant <br>
       pujing:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/孙靖.jpg
+  - image_path: /assets/img/pic/孙靖.png
     alt: "123"
     title: "SUN Jing"
     excerpt: >
@@ -54,6 +54,18 @@ feature_row:
     excerpt: >
       Ph.D Student <br>
       zhumengxuan2023:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/王诗宇.jpg
+    alt: "placeholder image 2"
+    title: "WANG Shiyu"
+    excerpt: >
+      Ph.D Student <br>
+      wangshiyu2023:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/胡悦.jpg
+    alt: "placeholder image 2"
+    title: "HU Yue"
+    excerpt: >
+      Ph.D Student <br>
+      huyue2023:paperclip:sinh**.**ac**.**cn
     
 feature_row2:
   - image_path: /assets/img/pic/靳文菲.jpg
