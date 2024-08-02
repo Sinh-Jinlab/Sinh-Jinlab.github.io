@@ -10,24 +10,22 @@ header:
   overlay_image: /assets/img/photos/header9.jpg
 # excerpt: " <br> <br> <br>"
 gallery:
-  - url: /assets/img/gallery/1.jpg
-    image_path: /assets/img/gallery/1.jpg
-
-
+  - url: /assets/img/gallery/2.jpg
+    image_path: /assets/img/gallery/2.jpg
+  - url: /assets/img/gallery/3.jpg
+    image_path: /assets/img/gallery/3.jpg
+  - url: /assets/img/gallery/4.jpg
+    image_path: /assets/img/gallery/4.jpg
 
 ---
 
 # Academic Events
 
 <figure class="third">
-  <a href="/assets/img/gallery/2.jpg" ">
-  <img src="/assets/img/gallery/2.jpg" "></a>
+  <a href="/assets/img/gallery/1.jpg" ">
+  <img src="/assets/img/gallery/1.jpg" "></a>
 
-  <a href="/assets/img/gallery/3.jpg" ">
-  <img src="/assets/img/gallery/3.jpg" "></a>
-  
-  <a href="/assets/img/gallery/4.jpg" ">
-  <img src="/assets/img/gallery/4.jpg" "></a>
+
 
 </figure>
 
