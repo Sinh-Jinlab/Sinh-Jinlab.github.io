@@ -29,14 +29,19 @@ feature_row:
     title: "YU Shiya"
     excerpt: >
       Postdoc <br>
-      yushiya:paperclip:sinh**.**ac**.**cn
+      syyu:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/王军亮.jpg
     alt: "placeholder image 2"
     title: "WANG Junliang"
     excerpt: >
       Postdoc <br>
-      wangjunliang:paperclip:sinh**.**ac**.**cn
-
+      jimmyMall:paperclip:163**.**com**
+  - image_path: /assets/img/pic/宋倩倩.jpg
+    alt: "placeholder image 2"
+    title: "SONG Qianqian"
+    excerpt: >
+      Postdoc <br>
+      qqsong:paperclip:sinh**.**ac**.**cn
     
 feature_row2:
   - image_path: /assets/img/pic/靳文菲.jpg
