@@ -16,16 +16,8 @@ Researchers discover that Sirpα on tumor-associated myeloid cells restrains ant
 ## December
 Researchers discover that switch of PolyA site usage plays important role in cell cycle regulation through development of single-cell polyA sequencing <a href="https://newshub.sustech.edu.cn/en/html/202212/37877.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-## November
-* Welcome Jingxuan Cai and Jiao Yuan for Lab Rotation!
-* Welcome Yongqi Bei, Huicheng Ye and Feifei Sun for internship!
-
-## October
-* Congrats to the success of the 2023 Bioinformatics and Computational Biology Young Talents Frontier Forum! <a href="https://mp.weixin.qq.com/s/bLprWNF7lDrlmbEI-dApFg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
-* Congrats to professor Li for receiving the 2023 Young Star Award of Shanghai Society for Bioinformatics. <a href="https://mp.weixin.qq.com/s/iT2oQpp-sOv-1iIBHPNTjg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
-
 ## September
-* Welcome Qianxi Jia and Xintong Huang for Lab Rotation!
+Researchers develop technology for characterisation of cell types <a href="https://newshub.sustech.edu.cn/en/html/202209/36980.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## July
 * Welcome Fei Guo, Wenwen Zhang and Chenyihang Xiong for summer internship!
