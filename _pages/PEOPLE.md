@@ -35,7 +35,7 @@ feature_row:
     title: "WANG Junliang"
     excerpt: >
       Postdoc <br>
-      jimmyMall:paperclip:163**.**com**
+      jimmyMall:paperclip:163**.**com
   - image_path: /assets/img/pic/宋倩倩.jpg
     alt: "placeholder image 2"
     title: "SONG Qianqian"
