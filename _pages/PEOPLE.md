@@ -52,7 +52,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "ZHU Mengxuan"
     excerpt: >
-      Postdoc <br>
+      Ph.D Student <br>
       zhumengxuan2023:paperclip:sinh**.**ac**.**cn
     
 feature_row2:
