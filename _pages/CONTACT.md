@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/img/photos/W020130816502215805063.jpg
+  overlay_image: /assets/img/photos/798f8c31555dc2a078c8c2f07722489a.jpg
 feature_row3:
   - image_path: /assets/img/photos/W020130816502215620475.jpg
     alt: "placeholder image 2"
