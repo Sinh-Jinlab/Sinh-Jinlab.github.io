@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/img/home/e723b5cc54f1b108214c30ebcf8c5d0c.jpeg
 excerpt: 'The long-term goal of **MOT (PI: JIN Wenfei)**  is to develop efficient personalized treatment for cancers based on patients’ genetic background. In the near future, the lab will focus on investigating genetic/epigenetic heterogeneity and micro-evolution of cancer cells using single cell sequencing related technologies.'
 feature_row1:
-  - image_path: /assets/img/home/171597644997501490.jpg
+  - image_path: /assets/img/home/151671068743787022.jpg
     title: "Single cell sequencing and its applications in cancer biology"
     
     url: "/PUBLICATIONS/"
@@ -22,7 +22,7 @@ feature_row2:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row3:
-  - image_path: /assets/img/home/151671068743787022.jpg
+  - image_path: /assets/img/home/171597644997501490.jpg
     title: "Developing cancer prediction and treatment model for precision medicine"
    
     url: "/PUBLICATIONS/"
