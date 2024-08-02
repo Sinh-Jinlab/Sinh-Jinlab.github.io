@@ -66,6 +66,12 @@ feature_row:
     excerpt: >
       Ph.D Student <br>
       huyue2023:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/张羽涛.jpg
+    alt: "placeholder image 2"
+    title: "ZHANG Yutao"
+    excerpt: >
+      Ph.D Student <br>
+      zhangyutao2022:paperclip:sinh**.**ac**.**cn
     
 feature_row2:
   - image_path: /assets/img/pic/靳文菲.jpg
