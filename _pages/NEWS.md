@@ -20,11 +20,11 @@ Researchers develop technology for characterisation of cell types <a href="https
 
 # 2021
 ## April
-SUSTech scholars develops data sketching technique for genomic big data <a href="https://newshub.sustech.edu.cn/en/html/202104/30786.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+Researchers develops data sketching technique for genomic big data <a href="https://newshub.sustech.edu.cn/en/html/202104/30786.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 # 2020
 ## August
-New insights found into genomic architecture by SUSTech scholars <a href="https://newshub.sustech.edu.cn/en/html/202008/27205.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+New insights found into genomic architecture <a href="https://newshub.sustech.edu.cn/en/html/202008/27205.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 
 
