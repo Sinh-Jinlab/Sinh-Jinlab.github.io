@@ -48,6 +48,12 @@ feature_row:
     excerpt: >
       Postdoc <br>
       qqsong:paperclip:sinh**.**ac**.**cn
+      - image_path: /assets/img/pic/竺孟琁.jpg
+    alt: "placeholder image 2"
+    title: "ZHU Mengxuan"
+    excerpt: >
+      Postdoc <br>
+      zhumengxuan2023:paperclip:sinh**.**ac**.**cn
     
 feature_row2:
   - image_path: /assets/img/pic/靳文菲.jpg
