@@ -36,7 +36,7 @@ feature_row:
     excerpt: >
       Postdoc <br>
       jimmyMall:paperclip:163**.**com
-      - image_path: /assets/img/pic/潘雨闻.jpg
+  - image_path: /assets/img/pic/潘雨闻.jpg
     alt: "placeholder image 2"
     title: "PAN Yuwen"
     excerpt: >
@@ -48,7 +48,7 @@ feature_row:
     excerpt: >
       Postdoc <br>
       qqsong:paperclip:sinh**.**ac**.**cn
-      - image_path: /assets/img/pic/竺孟琁.jpg
+  - image_path: /assets/img/pic/竺孟琁.jpg
     alt: "placeholder image 2"
     title: "ZHU Mengxuan"
     excerpt: >
