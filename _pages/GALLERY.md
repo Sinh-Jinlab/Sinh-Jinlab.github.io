@@ -22,8 +22,9 @@ gallery:
 # Academic Events
 
 <figure class="third">
-  <a href="/assets/img/gallery/1.jpg" ">
-  <img src="/assets/img/gallery/1.jpg" "></a>
+
+  <a href="/assets/img/gallery/1.jpg" title="上海营养健康讲坛" alt="上海营养健康讲坛">
+  <img src="/assets/img/gallery/1.jpg" title="上海营养健康讲坛" alt="上海营养健康讲坛"></a>
 
 
 
