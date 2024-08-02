@@ -8,13 +8,13 @@ toc_icon: "bars"
 # classes: wide
 ---
 # 2024
-Researchers discover that Sirpα on tumor-associated myeloid cells restrains antitumor immunity independent of its interaction with CD47 <a href="https://newshub.sustech.edu.cn/html/202401/44808.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+## January
+Researchers discover that Sirpα on tumor-associated myeloid cells restrains antitumor immunity independent of its interaction with CD47 <a href="https://newshub.sustech.edu.cn/en/html/202401/41560.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 
-# 2023
+# 2022
 ## December
-* We welcome new graduate students Jingxuan Cai and Jiao Yuan to join our group!
-* Congrats to Bihan Shen for being awarded for "2023 Best Poster Award" in GRAD ! <a href="https://mp.weixin.qq.com/s/lyE2UrryXebuaJZ--X1LQg" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+Researchers discover that switch of PolyA site usage plays important role in cell cycle regulation through development of single-cell polyA sequencing <a href="https://newshub.sustech.edu.cn/en/html/202212/37877.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## November
 * Welcome Jingxuan Cai and Jiao Yuan for Lab Rotation!
