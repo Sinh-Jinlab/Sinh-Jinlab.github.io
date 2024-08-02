@@ -1,6 +1,16 @@
 ---
 title: " "
 permalink: /PUBLICATIONS/
+header:
+  image: /assets/img/photos/header6.jpeg
+
+toc: true
+toc_sticky: true
+toc_label: " "
+toc_icon: "bars"
+layout: single
+# classes: wide
+---
 
 # Selected publications
 
