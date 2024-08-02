@@ -12,10 +12,7 @@ header:
 gallery:
   - url: /assets/img/gallery/2.jpg
     image_path: /assets/img/gallery/2.jpg
-  - url: /assets/img/gallery/3.jpg
-    image_path: /assets/img/gallery/3.jpg
-  - url: /assets/img/gallery/4.jpg
-    image_path: /assets/img/gallery/4.jpg
+
 
 ---
 
