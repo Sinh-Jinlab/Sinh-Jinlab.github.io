@@ -2,7 +2,7 @@
 title: " "
 permalink: /PUBLICATIONS/
 header:
-  image: /assets/img/photos/tQVZB3C5.jpg
+  image: /assets/img/photos/798f8c31555dc2a078c8c2f07722489a.jpeg
 
 toc: true
 toc_sticky: true
