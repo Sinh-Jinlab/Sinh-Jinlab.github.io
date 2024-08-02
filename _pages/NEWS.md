@@ -8,7 +8,7 @@ toc_icon: "bars"
 # classes: wide
 ---
 # 2024
-Researchers discover that Sirpα on tumor-associated myeloid cells restrains antitumor immunity independent of its interaction with CD47 <a href="[https://mp.weixin.qq.com/s/lyE2UrryXebuaJZ--X1LQg](https://newshub.sustech.edu.cn/en/html/202401/41560.html)">
+Researchers discover that Sirpα on tumor-associated myeloid cells restrains antitumor immunity independent of its interaction with CD47 <a href="https://newshub.sustech.edu.cn/html/202401/44808.html" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 
 # 2023
