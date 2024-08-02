@@ -1,16 +1,7 @@
 ---
 title: " "
 permalink: /PUBLICATIONS/
-header:
-  image: /assets/img/photos/header6.jpeg
 
-toc: true
-toc_sticky: true
-toc_label: " "
-toc_icon: "bars"
-layout: single
-# classes: wide
----
 # Selected publications
 
 [1]	Guanqun Ren#, Yime Zhang#, Jiamin Liu#, Wenwen Cheng#, Di Wu, Mengwei Han, Yanyu Zeng, Xingyu Zhao, Luni Hu, Min Zeng, Rama Krishna Gurram, Xiaole Hu, Bo Zhou, Zhiyuan Hou, Jinfang Zhu, **Wenfei Jin***, Chao Zhong\*. Decreased GATA3 levels cause changed mouse cutaneous innate lymphoid cell fate, facilitating hair follicle recycling. Developmental Cell. 2024. 59:1-15.
