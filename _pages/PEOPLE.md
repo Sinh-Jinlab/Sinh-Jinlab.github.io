@@ -48,6 +48,18 @@ feature_row:
     excerpt: >
       Postdoc <br>
       qqsong:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/杨嘉欣.jpg
+    alt: "placeholder image 2"
+    title: "YANG Jiaxin"
+    excerpt: >
+      Ph.D Student <br>
+      yangjiaxin2020:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/张羽涛.jpg
+    alt: "placeholder image 2"
+    title: "ZHANG Yutao"
+    excerpt: >
+      Ph.D Student <br>
+      zhangyutao2022:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/竺孟琁.jpg
     alt: "placeholder image 2"
     title: "ZHU Mengxuan"
@@ -66,12 +78,7 @@ feature_row:
     excerpt: >
       Ph.D Student <br>
       huyue2023:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/张羽涛.jpg
-    alt: "placeholder image 2"
-    title: "ZHANG Yutao"
-    excerpt: >
-      Ph.D Student <br>
-      zhangyutao2022:paperclip:sinh**.**ac**.**cn
+
     
 feature_row2:
   - image_path: /assets/img/pic/靳文菲.jpg
