@@ -54,12 +54,24 @@ feature_row:
     excerpt: >
       Ph.D Student <br>
       yangjiaxin2020:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/陈冠明.jpg
+    alt: "placeholder image 2"
+    title: "CHEN Guanming"
+    excerpt: >
+      Ph.D Student <br>
+      chenguanming2024:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/张羽涛.jpg
     alt: "placeholder image 2"
     title: "ZHANG Yutao"
     excerpt: >
       Ph.D Student <br>
       zhangyutao2022:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/柳玉磊.jpg
+    alt: "placeholder image 2"
+    title: "LIU Yulei"
+    excerpt: >
+      Ph.D Student <br>
+      liuyulei2022:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/竺孟琁.jpg
     alt: "placeholder image 2"
     title: "ZHU Mengxuan"
