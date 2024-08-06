@@ -60,6 +60,12 @@ feature_row:
     excerpt: >
       Ph.D Student <br>
       chenguanming2024:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/褚旭.jpg
+    alt: "placeholder image 2"
+    title: "CHU Xu"
+    excerpt: >
+      Ph.D Student <br>
+      chuxu2022:paperclip:sinh**.**ac**.**cn  
   - image_path: /assets/img/pic/张羽涛.jpg
     alt: "placeholder image 2"
     title: "ZHANG Yutao"
