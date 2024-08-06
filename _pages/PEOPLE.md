@@ -48,6 +48,12 @@ feature_row:
     excerpt: >
       Postdoc <br>
       qqsong:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/王玉舟.jpg
+    alt: "placeholder image 2"
+    title: "WANG Yuzhou"
+    excerpt: >
+      Postdoc <br>
+      yzwang:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/杨嘉欣.jpg
     alt: "placeholder image 2"
     title: "YANG Jiaxin"
