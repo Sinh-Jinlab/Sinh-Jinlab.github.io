@@ -32,17 +32,17 @@ layout: single
 
 [9]	Huiguang Yi, Yanling Lin, Chengqi Lin, **Wenfei Jin***. Kssd: sequence dimensionality reduction by k-mer substring space sampling enables real-time large-scale datasets analysis. Genome Biology. 2021. 22(1):84.
 
-[10]	Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji Zhao\*, **Wenfei Jin***. 2020. Diploid genome architecture revealed by multi-omic data of hybrid mice. Genome Research. 30:1097-1106. 
+[10]	Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji Zhao\*, **Wenfei Jin***. Diploid genome architecture revealed by multi-omic data of hybrid mice. Genome Research. 2020. 30:1097-1106. 
 
-[11]	**Wenfei Jin**, Ran Li, Ying Zhou, Shuhua Xu\*. Distribution of Ancestral Chromosomal Segments in Admixed Genomes and Its Implications for Inferring Population History and Admixture Mapping. European Journal of Human Genetics. 2014, 22: 930-937.
+[11]	**Wenfei Jin**, Ran Li, Ying Zhou, Shuhua Xu\*. Distribution of Ancestral Chromosomal Segments in Admixed Genomes and Its Implications for Inferring Population History and Admixture Mapping. European Journal of Human Genetics. 2014. 22: 930-937.
 
-[12]	**Wenfei Jin**, Sijia Wang, Haifeng Wang, Li Jin, Shuhua Xu\*. Exploring Population Admixture Dynamics Using Empirical and Simulated Genome-Wide Distribution of Ancestral Chromosomal Segments. American Journal of Human Genetics. 2012, 91:849-862.
+[12]	**Wenfei Jin**, Sijia Wang, Haifeng Wang, Li Jin, Shuhua Xu\*. Exploring Population Admixture Dynamics Using Empirical and Simulated Genome-Wide Distribution of Ancestral Chromosomal Segments. American Journal of Human Genetics. 2012. 91:849-862.
 
-[13]	Shuhua Xu\*, **Wenfei Jin**. Population Genetics in the Genomic Era (Book Chapter in Population Genetics, Book edited by Dr. Stuart Raleigh, University of Northampton, UK), InTech, Rijeka, Croatia (ISBN 979-953-307-446-6). 2012, Page: 137-168.
+[13]	Shuhua Xu\*, **Wenfei Jin**. Population Genetics in the Genomic Era (Book Chapter in Population Genetics, Book edited by Dr. Stuart Raleigh, University of Northampton, UK), InTech, Rijeka, Croatia (ISBN 979-953-307-446-6). 2012. Page: 137-168.
 
-[14]	**Wenfei Jin**, Pengfei Qin, Haiyi Lou, Li Jin\*, Shuhua Xu\*. A Systematic Characterization of Genes Underlying both Complex and Mendelian Diseases. Human Molecular Genetics. 2012, 21(7):1611-1624.
+[14]	**Wenfei Jin**, Pengfei Qin, Haiyi Lou, Li Jin\*, Shuhua Xu\*. A Systematic Characterization of Genes Underlying both Complex and Mendelian Diseases. Human Molecular Genetics. 2012. 21(7):1611-1624.
 
-[15]	**Wenfei Jin**, Shuhua Xu\*, Haifeng Wang, Yongguo Li, Yiping Shen, Bailin Wu, Li Jin\*. Genome-Wide Detection of Natural Selection in African Americans Pre-and Post-Admixture. Genome Research. 2012, 22 (3):519-527.
+[15]	**Wenfei Jin**, Shuhua Xu\*, Haifeng Wang, Yongguo Li, Yiping Shen, Bailin Wu, Li Jin\*. Genome-Wide Detection of Natural Selection in African Americans Pre-and Post-Admixture. Genome Research. 2012. 22 (3):519-527.
 
 
 # All publications
