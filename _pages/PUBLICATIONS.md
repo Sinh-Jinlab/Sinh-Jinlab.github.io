@@ -81,14 +81,14 @@ Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji 
 
 ## Before 2020
 
-**Wenfei Jin**, Ran Li, Ying Zhou, Shuhua Xu\*. Distribution of Ancestral Chromosomal Segments in Admixed Genomes and Its Implications for Inferring Population History and Admixture Mapping. European Journal of Human Genetics. 2014, 22: 930-937.
+**Wenfei Jin**, Ran Li, Ying Zhou, Shuhua Xu\*. Distribution of Ancestral Chromosomal Segments in Admixed Genomes and Its Implications for Inferring Population History and Admixture Mapping. European Journal of Human Genetics. 2014. 22: 930-937.
 
-**Wenfei Jin**, Sijia Wang, Haifeng Wang, Li Jin, Shuhua Xu\*. Exploring Population Admixture Dynamics Using Empirical and Simulated Genome-Wide Distribution of Ancestral Chromosomal Segments. American Journal of Human Genetics. 2012, 91:849-862.
+**Wenfei Jin**, Sijia Wang, Haifeng Wang, Li Jin, Shuhua Xu\*. Exploring Population Admixture Dynamics Using Empirical and Simulated Genome-Wide Distribution of Ancestral Chromosomal Segments. American Journal of Human Genetics. 2012. 91:849-862.
 
-Shuhua Xu\*, **Wenfei Jin**. Population Genetics in the Genomic Era (Book Chapter in Population Genetics, Book edited by Dr. Stuart Raleigh, University of Northampton, UK), InTech, Rijeka, Croatia (ISBN 979-953-307-446-6). 2012, Page: 137-168.
+Shuhua Xu\*, **Wenfei Jin**. Population Genetics in the Genomic Era (Book Chapter in Population Genetics, Book edited by Dr. Stuart Raleigh, University of Northampton, UK), InTech, Rijeka, Croatia (ISBN 979-953-307-446-6). 2012. Page: 137-168.
 
-**Wenfei Jin**, Pengfei Qin, Haiyi Lou, Li Jin\*, Shuhua Xu\*. A Systematic Characterization of Genes Underlying both Complex and Mendelian Diseases. Human Molecular Genetics. 2012, 21(7):1611-1624.
+**Wenfei Jin**, Pengfei Qin, Haiyi Lou, Li Jin\*, Shuhua Xu\*. A Systematic Characterization of Genes Underlying both Complex and Mendelian Diseases. Human Molecular Genetics. 2012. 21(7):1611-1624.
 
-**Wenfei Jin**, Shuhua Xu\*, Haifeng Wang, Yongguo Li, Yiping Shen, Bailin Wu, Li Jin\*. Genome-Wide Detection of Natural Selection in African Americans Pre-and Post-Admixture. Genome Research. 2012, 22 (3):519-527.
+**Wenfei Jin**, Shuhua Xu\*, Haifeng Wang, Yongguo Li, Yiping Shen, Bailin Wu, Li Jin\*. Genome-Wide Detection of Natural Selection in African Americans Pre-and Post-Admixture. Genome Research. 2012. 22 (3):519-527.
 
 
