@@ -30,7 +30,7 @@ layout: single
 
 [8]	Pengfei Qin#, Yakun Pang#, Wenhong Hou#, Ruiqing Fu#, Yingchi Zhang#, Xuefei Wang#, Guofeng Meng, Qifa Liu, Xiaofan Zhu, Ni Hong\*, Tao Cheng\*, **Wenfei Jin***. Integrated decoding hematopoiesis and leukemogenesis using single-cell sequencing and its medical implication. Cell Discovery. 2021. 7(1):2. <a href="https://www.nature.com/articles/s41421-020-00223-4" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-[7]	Huiguang Yi, Yanling Lin, Chengqi Lin, **Wenfei Jin***. Kssd: sequence dimensionality reduction by k-mer substring space sampling enables real-time large-scale datasets analysis. Genome Biology. 2021. 22(1):84.
+[7]	Huiguang Yi, Yanling Lin, Chengqi Lin, **Wenfei Jin***. Kssd: sequence dimensionality reduction by k-mer substring space sampling enables real-time large-scale datasets analysis. Genome Biology. 2021. 22(1):84. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02303-4" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 [6]	Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji Zhao\*, **Wenfei Jin***. Diploid genome architecture revealed by multi-omic data of hybrid mice. Genome Research. 2020. 30:1097-1106. 
 
