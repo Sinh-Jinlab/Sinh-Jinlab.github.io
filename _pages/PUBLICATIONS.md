@@ -28,7 +28,7 @@ layout: single
 
 [9]	Junliang Wang#, Wei Chen#, Wenjun Yue, Wenhong Hou, Feng Rao, Hanbing Zhong, Yuanming Qi\*, Ni Hong\*, Ting Ni\*, **Wenfei Jin***. Comprehensive mapping of alternative polyadenylation site usage and its dynamics at single-cell resolution. Proceedings of the National Academy of Sciences of the United States of America. 2022. 119(49):e2113504119. <a href="https://www.pnas.org/doi/10.1073/pnas.2113504119" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-[8]	Pengfei Qin#, Yakun Pang#, Wenhong Hou#, Ruiqing Fu#, Yingchi Zhang#, Xuefei Wang#, Guofeng Meng, Qifa Liu, Xiaofan Zhu, Ni Hong\*, Tao Cheng\*, **Wenfei Jin***. Integrated decoding hematopoiesis and leukemogenesis using single-cell sequencing and its medical implication. Cell Discovery. 2021. 7(1):2.
+[8]	Pengfei Qin#, Yakun Pang#, Wenhong Hou#, Ruiqing Fu#, Yingchi Zhang#, Xuefei Wang#, Guofeng Meng, Qifa Liu, Xiaofan Zhu, Ni Hong\*, Tao Cheng\*, **Wenfei Jin***. Integrated decoding hematopoiesis and leukemogenesis using single-cell sequencing and its medical implication. Cell Discovery. 2021. 7(1):2. <a href="https://www.nature.com/articles/s41421-020-00223-4" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 [7]	Huiguang Yi, Yanling Lin, Chengqi Lin, **Wenfei Jin***. Kssd: sequence dimensionality reduction by k-mer substring space sampling enables real-time large-scale datasets analysis. Genome Biology. 2021. 22(1):84.
 
