@@ -18,7 +18,7 @@ layout: single
 
 [14]	Chunliu Huang#, Xuefei Wang#, Yingzhao Wang#, Yongyi Feng, Xiumei Wang, Shan Chen, Peidong Yan, Jing Liao, Qi Zhang, Chengzhou Mao, Yang Li, Lixiang Wang, Xinyu Wang, Wei Yi, Weibin Cai, Shoudeng Chen, Ni Hong\*, Weiling He\*, Jun Chen\*, **Wenfei Jin***. Sirpα on tumor-associated myeloid cells restrains antitumor immunity in colorectal cancer independent of its interaction with CD47. Nature Cancer. 2024. 5(3):500-516. <a href="https://www.nature.com/articles/s43018-023-00691-z" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-[13]	Jie Zhou#, Guanming Chen#, Jiuling Wang#, Bo Zhou, Xuemin Sun, Jinsong Wang, Shu Tang, Xiangju Xing, Xiaofei Hu, Yang Zhao, Yu Peng, Wenjiong Shi, Tingting Zhao, Yuzhang Wu, Hanbing Zhong, Ni Hong, Zhihua Ruan\*, Yi Zhang\*, **Wenfei Jin***. Anti-PD-1 therapy achieves favorable outcomes in HBV-positive non-liver cancer. Oncogenesis. 2023. 12(1):22.
+[13]	Jie Zhou#, Guanming Chen#, Jiuling Wang#, Bo Zhou, Xuemin Sun, Jinsong Wang, Shu Tang, Xiangju Xing, Xiaofei Hu, Yang Zhao, Yu Peng, Wenjiong Shi, Tingting Zhao, Yuzhang Wu, Hanbing Zhong, Ni Hong, Zhihua Ruan\*, Yi Zhang\*, **Wenfei Jin***. Anti-PD-1 therapy achieves favorable outcomes in HBV-positive non-liver cancer. Oncogenesis. 2023. 12(1):22. <a href="https://www.nature.com/articles/s41389-023-00468-0" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 [12]	Hui Li#, Hongyi Liu#, Yifei Liu#, Xuefei Wang, Shiya Yu, Hongwen Huang, Xiangru Shen, Qi Zhang, Ni Hong, **Wenfei Jin***. Exploring the dynamics and influencing factors of CD4 T cell activation using single-cell RNA-seq. iScience. 2023. 26(9):107588.
 
