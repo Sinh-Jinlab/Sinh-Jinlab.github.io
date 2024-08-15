@@ -26,7 +26,7 @@ layout: single
 
 [10]	Wei Xu#, Weilong Yang#, Yunlong Zhang, Yawen Chen, Ni Hong, Qian Zhang, Xuefei Wang, Yukun Hu, Kun Song, **Wenfei Jin***, Xi Chen\*. ISSAAC-seq enables sensitive and flexible multimodal profiling of chromatin accessibility and gene expression in single cells. Nature Methods. 2022. 19(10):1243-1249. <a href="https://www.nature.com/articles/s41592-022-01601-4" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-[9]	Junliang Wang#, Wei Chen#, Wenjun Yue, Wenhong Hou, Feng Rao, Hanbing Zhong, Yuanming Qi\*, Ni Hong\*, Ting Ni\*, **Wenfei Jin***. Comprehensive mapping of alternative polyadenylation site usage and its dynamics at single-cell resolution. Proceedings of the National Academy of Sciences of the United States of America. 2022. 119(49):e2113504119.
+[9]	Junliang Wang#, Wei Chen#, Wenjun Yue, Wenhong Hou, Feng Rao, Hanbing Zhong, Yuanming Qi\*, Ni Hong\*, Ting Ni\*, **Wenfei Jin***. Comprehensive mapping of alternative polyadenylation site usage and its dynamics at single-cell resolution. Proceedings of the National Academy of Sciences of the United States of America. 2022. 119(49):e2113504119. <a href="https://www.pnas.org/doi/10.1073/pnas.2113504119" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 [8]	Pengfei Qin#, Yakun Pang#, Wenhong Hou#, Ruiqing Fu#, Yingchi Zhang#, Xuefei Wang#, Guofeng Meng, Qifa Liu, Xiaofan Zhu, Ni Hong\*, Tao Cheng\*, **Wenfei Jin***. Integrated decoding hematopoiesis and leukemogenesis using single-cell sequencing and its medical implication. Cell Discovery. 2021. 7(1):2.
 
