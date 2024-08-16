@@ -34,7 +34,7 @@ layout: single
 
 [6]	Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji Zhao\*, **Wenfei Jin***. Diploid genome architecture revealed by multi-omic data of hybrid mice. Genome Research. 2020. 30:1097-1106. <a href="https://genome.cshlp.org/content/30/8/1097.long" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-[5]	**Wenfei Jin**, Ran Li, Ying Zhou, Shuhua Xu\*. Distribution of Ancestral Chromosomal Segments in Admixed Genomes and Its Implications for Inferring Population History and Admixture Mapping. European Journal of Human Genetics. 2014. 22: 930-937.
+[5]	**Wenfei Jin**, Ran Li, Ying Zhou, Shuhua Xu\*. Distribution of Ancestral Chromosomal Segments in Admixed Genomes and Its Implications for Inferring Population History and Admixture Mapping. European Journal of Human Genetics. 2014. 22: 930-937. <a href="https://www.nature.com/articles/ejhg2013265" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 [4]	**Wenfei Jin**, Sijia Wang, Haifeng Wang, Li Jin, Shuhua Xu\*. Exploring Population Admixture Dynamics Using Empirical and Simulated Genome-Wide Distribution of Ancestral Chromosomal Segments. American Journal of Human Genetics. 2012. 91:849-862.
 
