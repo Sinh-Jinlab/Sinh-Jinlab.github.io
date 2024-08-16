@@ -40,6 +40,8 @@ layout: single
 
 [3]	Shuhua Xu\*, **Wenfei Jin**. Population Genetics in the Genomic Era (Book Chapter in Population Genetics, Book edited by Dr. Stuart Raleigh, University of Northampton, UK), InTech, Rijeka, Croatia (ISBN 979-953-307-446-6). 2012. Page: 137-168. <a href="https://github.com/Sinh-Jinlab/Sinh-Jinlab.github.io/blob/main/assets/pdf/InTech书籍章节031113.pdf" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+[3]	Shuhua Xu\*, **Wenfei Jin**. Population Genetics in the Genomic Era (Book Chapter in Population Genetics, Book edited by Dr. Stuart Raleigh, University of Northampton, UK), InTech, Rijeka, Croatia (ISBN 979-953-307-446-6). 2012. Page: 137-168. <a href="https://raw.githubusercontent.com/Sinh-Jinlab/Sinh-Jinlab.github.io/main/assets/pdf/InTech书籍章节031113.pdf" rel="nofollow noopener noreferrer" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 [2]	**Wenfei Jin**, Pengfei Qin, Haiyi Lou, Li Jin\*, Shuhua Xu\*. A Systematic Characterization of Genes Underlying both Complex and Mendelian Diseases. Human Molecular Genetics. 2012. 21(7):1611-1624. <a href="https://academic.oup.com/hmg/article/21/7/1611/2900796?login=true" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 [1]	**Wenfei Jin**, Shuhua Xu\*, Haifeng Wang, Yongguo Li, Yiping Shen, Bailin Wu, Li Jin\*. Genome-Wide Detection of Natural Selection in African Americans Pre-and Post-Admixture. Genome Research. 2012. 22 (3):519-527. <a href="https://genome.cshlp.org/content/22/3/519.long" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
