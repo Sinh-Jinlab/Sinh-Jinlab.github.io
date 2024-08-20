@@ -48,7 +48,7 @@ Pengfei Qin#, Yakun Pang#, Wenhong Hou#, Ruiqing Fu#, Yingchi Zhang#, Xuefei Wan
 
 Huiguang Yi, Yanling Lin, Chengqi Lin, **Wenfei Jin***. Kssd: sequence dimensionality reduction by k-mer substring space sampling enables real-time large-scale datasets analysis. Genome Biology. 2021. 22(1):84. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02303-4" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-Wenhong Hou#, Li Duan#, Changyuan Huang#, Xingfu Li, Xiao Xu, Pengfei Qin, Ni Hong, Daping Wang\*, **Wenfei Jin**. Cross-Tissue Characterization of Heterogeneities of Mesenchymal Stem Cells and Their Differentiation Potentials. Frontiers in Cell and Developmental Biology. 2021. 9:781021. <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2021.781021/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+Wenhong Hou#, Li Duan#, Changyuan Huang#, Xingfu Li, Xiao Xu, Pengfei Qin, Ni Hong, Daping Wang\*, **Wenfei Jin***. Cross-Tissue Characterization of Heterogeneities of Mesenchymal Stem Cells and Their Differentiation Potentials. Frontiers in Cell and Developmental Biology. 2021. 9:781021. <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2021.781021/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji Zhao\*, **Wenfei Jin***. Diploid genome architecture revealed by multi-omic data of hybrid mice. Genome Research. 2020. 30:1097-1106. <a href="https://genome.cshlp.org/content/30/8/1097.long" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
@@ -107,7 +107,7 @@ Pengfei Qin#, Yakun Pang#, Wenhong Hou#, Ruiqing Fu#, Yingchi Zhang#, Xuefei Wan
 
 Huiguang Yi, Yanling Lin, Chengqi Lin, **Wenfei Jin***. Kssd: sequence dimensionality reduction by k-mer substring space sampling enables real-time large-scale datasets analysis. Genome Biology. 2021. 22(1):84. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02303-4" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-Wenhong Hou#, Li Duan#, Changyuan Huang#, Xingfu Li, Xiao Xu, Pengfei Qin, Ni Hong, Daping Wang\*, **Wenfei Jin**. Cross-Tissue Characterization of Heterogeneities of Mesenchymal Stem Cells and Their Differentiation Potentials. Frontiers in Cell and Developmental Biology. 2021. 9:781021. <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2021.781021/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+Wenhong Hou#, Li Duan#, Changyuan Huang#, Xingfu Li, Xiao Xu, Pengfei Qin, Ni Hong, Daping Wang\*, **Wenfei Jin***. Cross-Tissue Characterization of Heterogeneities of Mesenchymal Stem Cells and Their Differentiation Potentials. Frontiers in Cell and Developmental Biology. 2021. 9:781021. <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2021.781021/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2020
 
