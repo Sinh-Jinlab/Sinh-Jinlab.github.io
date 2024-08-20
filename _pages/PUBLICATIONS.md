@@ -32,6 +32,8 @@ Hui Li#, Hongyi Liu#, Yifei Liu#, Xuefei Wang, Shiya Yu, Hongwen Huang, Xiangru 
 
 Huiguang Yi\*, Yanling Lin, Qing Chang, **Wenfei Jin***. A fast and globally optimal solution for RNA-seq quantification. Briefings in Bioinformatics. 2023. 24(5):bbad298. <a href="https://academic.oup.com/bib/article/24/5/bbad298/7245794?login=true" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Di Wu#, Zongxian Li#, Yime Zhang#, Yinlian Zhang#, Guanqun Ren#, Yanyu Zeng, Huiying Liu, Weiqiang Guan, Xingyu Zhao, Peng Li, Luni Hu, Zhiyuan Hou, Jingjing Gong, Jun Li, **Wenfei Jin**, Zeping Hu, Changtao Jiang, Houhua Li & Chao Zhong\*. Proline uptake promotes activation of lymphoid tissue inducer cells to maintain gut homeostasis. 2023. 5(11):1953-1968. <a href="https://www.nature.com/articles/s42255-023-00908-6#auth-Chao-Zhong-Aff1" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 Wei Xu#, Weilong Yang#, Yunlong Zhang, Yawen Chen, Ni Hong, Qian Zhang, Xuefei Wang, Yukun Hu, Kun Song, **Wenfei Jin***, Xi Chen\*. ISSAAC-seq enables sensitive and flexible multimodal profiling of chromatin accessibility and gene expression in single cells. Nature Methods. 2022. 19(10):1243-1249. <a href="https://www.nature.com/articles/s41592-022-01601-4" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Junliang Wang#, Wei Chen#, Wenjun Yue, Wenhong Hou, Feng Rao, Hanbing Zhong, Yuanming Qi\*, Ni Hong\*, Ting Ni\*, **Wenfei Jin***. Comprehensive mapping of alternative polyadenylation site usage and its dynamics at single-cell resolution. Proceedings of the National Academy of Sciences of the United States of America. 2022. 119(49):e2113504119. <a href="https://www.pnas.org/doi/10.1073/pnas.2113504119" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
@@ -77,6 +79,7 @@ Hui Li#, Hongyi Liu#, Yifei Liu#, Xuefei Wang, Shiya Yu, Hongwen Huang, Xiangru 
 
 Huiguang Yi\*, Yanling Lin, Qing Chang, **Wenfei Jin***. A fast and globally optimal solution for RNA-seq quantification. Briefings in Bioinformatics. 2023. 24(5):bbad298. <a href="https://academic.oup.com/bib/article/24/5/bbad298/7245794?login=true" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Di Wu#, Zongxian Li#, Yime Zhang#, Yinlian Zhang#, Guanqun Ren#, Yanyu Zeng, Huiying Liu, Weiqiang Guan, Xingyu Zhao, Peng Li, Luni Hu, Zhiyuan Hou, Jingjing Gong, Jun Li, **Wenfei Jin**, Zeping Hu, Changtao Jiang, Houhua Li & Chao Zhong\*. Proline uptake promotes activation of lymphoid tissue inducer cells to maintain gut homeostasis. 2023. 5(11):1953-1968. <a href="https://www.nature.com/articles/s42255-023-00908-6#auth-Chao-Zhong-Aff1" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2022
 
