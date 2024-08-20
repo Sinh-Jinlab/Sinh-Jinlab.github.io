@@ -48,6 +48,8 @@ Pengfei Qin#, Yakun Pang#, Wenhong Hou#, Ruiqing Fu#, Yingchi Zhang#, Xuefei Wan
 
 Huiguang Yi, Yanling Lin, Chengqi Lin, **Wenfei Jin***. Kssd: sequence dimensionality reduction by k-mer substring space sampling enables real-time large-scale datasets analysis. Genome Biology. 2021. 22(1):84. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02303-4" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Wenhong Hou#, Li Duan#, Changyuan Huang#, Xingfu Li, Xiao Xu, Pengfei Qin, Ni Hong, Daping Wang\*, **Wenfei Jin**. Cross-Tissue Characterization of Heterogeneities of Mesenchymal Stem Cells and Their Differentiation Potentials. Frontiers in Cell and Developmental Biology. 2021. 9:781021. <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2021.781021/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji Zhao\*, **Wenfei Jin***. Diploid genome architecture revealed by multi-omic data of hybrid mice. Genome Research. 2020. 30:1097-1106. <a href="https://genome.cshlp.org/content/30/8/1097.long" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 **Wenfei Jin**, Ran Li, Ying Zhou, Shuhua Xu\*. Distribution of Ancestral Chromosomal Segments in Admixed Genomes and Its Implications for Inferring Population History and Admixture Mapping. European Journal of Human Genetics. 2014. 22: 930-937. <a href="https://www.nature.com/articles/ejhg2013265" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
@@ -104,6 +106,8 @@ Md Alamin, Most Humaira Sultana, Xiangyang Lou, **Wenfei Jin***, Haiming Xu\*. D
 Pengfei Qin#, Yakun Pang#, Wenhong Hou#, Ruiqing Fu#, Yingchi Zhang#, Xuefei Wang#, Guofeng Meng, Qifa Liu, Xiaofan Zhu, Ni Hong\*, Tao Cheng\*, **Wenfei Jin***. Integrated decoding hematopoiesis and leukemogenesis using single-cell sequencing and its medical implication. Cell Discovery. 2021. 7(1):2. <a href="https://www.nature.com/articles/s41421-020-00223-4" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Huiguang Yi, Yanling Lin, Chengqi Lin, **Wenfei Jin***. Kssd: sequence dimensionality reduction by k-mer substring space sampling enables real-time large-scale datasets analysis. Genome Biology. 2021. 22(1):84. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02303-4" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+Wenhong Hou#, Li Duan#, Changyuan Huang#, Xingfu Li, Xiao Xu, Pengfei Qin, Ni Hong, Daping Wang\*, **Wenfei Jin**. Cross-Tissue Characterization of Heterogeneities of Mesenchymal Stem Cells and Their Differentiation Potentials. Frontiers in Cell and Developmental Biology. 2021. 9:781021. <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2021.781021/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2020
 
