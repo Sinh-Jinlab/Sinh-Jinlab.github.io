@@ -58,6 +58,8 @@ Zixiang Luo#, Chenyu Xu#, Zhen Zhang\*, **Wenfei Jin***. A topology-preserving d
 
 Nonthaphat Kent Wong#, Shumeng Luo#, Eudora Y D Chow, Fei Meng, Adenike Adesanya, Jiahong Sun, Herman M H Ma, **Wenfei Jin**, Wan-Chun Li, Shea Ping Yip\*, Chien-Ling Huang\*. The Tyrosine Kinase-Driven Networks of Novel Long Non-coding RNAs and Their Molecular Targets in Myeloproliferative Neoplasms. Frontiers in Cell and Developmental Biology. 2021. 9:643043. <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2021.643043/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Wei Xu, Yi Wen, Yingying Liang, Qiushi Xu, Xuefei Wang, **Wenfei Jin** & Xi Chen\*. A plate-based single-cell ATAC-seq workflow for fast and robust profiling of chromatin accessibility. Nature Protocols. 2021. 16(8):4084-4107. <a href="https://www.nature.com/articles/s41596-021-00583-5" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji Zhao\*, **Wenfei Jin***. Diploid genome architecture revealed by multi-omic data of hybrid mice. Genome Research. 2020. 30:1097-1106. <a href="https://genome.cshlp.org/content/30/8/1097.long" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 **Wenfei Jin**, Ran Li, Ying Zhou, Shuhua Xu\*. Distribution of Ancestral Chromosomal Segments in Admixed Genomes and Its Implications for Inferring Population History and Admixture Mapping. European Journal of Human Genetics. 2014. 22: 930-937. <a href="https://www.nature.com/articles/ejhg2013265" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
@@ -124,6 +126,8 @@ Ruiqing Fu, Pengfei Qin, Xianghui Zou, Zhangli Hu, Ni Hong\*, Yun Wang\*, **Wenf
 Zixiang Luo#, Chenyu Xu#, Zhen Zhang\*, **Wenfei Jin***. A topology-preserving dimensionality reduction method for single-cell RNA-seq data using graph autoencoder. Scientific Reports. 2021. 11(1):20028. <a href="https://www.nature.com/articles/s41598-021-99003-7" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Nonthaphat Kent Wong#, Shumeng Luo#, Eudora Y D Chow, Fei Meng, Adenike Adesanya, Jiahong Sun, Herman M H Ma, **Wenfei Jin**, Wan-Chun Li, Shea Ping Yip\*, Chien-Ling Huang\*. The Tyrosine Kinase-Driven Networks of Novel Long Non-coding RNAs and Their Molecular Targets in Myeloproliferative Neoplasms. Frontiers in Cell and Developmental Biology. 2021. 9:643043. <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2021.643043/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+Wei Xu, Yi Wen, Yingying Liang, Qiushi Xu, Xuefei Wang, **Wenfei Jin** & Xi Chen\*. A plate-based single-cell ATAC-seq workflow for fast and robust profiling of chromatin accessibility. Nature Protocols. 2021. 16(8):4084-4107. <a href="https://www.nature.com/articles/s41596-021-00583-5" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2020
 
