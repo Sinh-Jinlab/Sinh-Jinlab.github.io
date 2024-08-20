@@ -54,6 +54,8 @@ Wenhong Hou#, Li Duan#, Changyuan Huang#, Xingfu Li, Xiao Xu, Pengfei Qin, Ni Ho
 
 Ruiqing Fu, Pengfei Qin, Xianghui Zou, Zhangli Hu, Ni Hong\*, Yun Wang\*, **Wenfei Jin***. A Comprehensive Characterization of Monoallelic Expression During Hematopoiesis and Leukemogenesis via Single-Cell RNA-Sequencing. Frontiers in Cell and Developmental Biology. 2021. 9:702897. <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2021.702897/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Zixiang Luo#, Chenyu Xu#, Zhen Zhang\*, **Wenfei Jin***. A topology-preserving dimensionality reduction method for single-cell RNA-seq data using graph autoencoder. Scientific Reports. 2021. 11(1):20028. <a href="https://www.nature.com/articles/s41598-021-99003-7" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji Zhao\*, **Wenfei Jin***. Diploid genome architecture revealed by multi-omic data of hybrid mice. Genome Research. 2020. 30:1097-1106. <a href="https://genome.cshlp.org/content/30/8/1097.long" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 **Wenfei Jin**, Ran Li, Ying Zhou, Shuhua Xu\*. Distribution of Ancestral Chromosomal Segments in Admixed Genomes and Its Implications for Inferring Population History and Admixture Mapping. European Journal of Human Genetics. 2014. 22: 930-937. <a href="https://www.nature.com/articles/ejhg2013265" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
@@ -116,6 +118,8 @@ Huiguang Yi, Yanling Lin, Chengqi Lin, **Wenfei Jin***. Kssd: sequence dimension
 Wenhong Hou#, Li Duan#, Changyuan Huang#, Xingfu Li, Xiao Xu, Pengfei Qin, Ni Hong, Daping Wang\*, **Wenfei Jin***. Cross-Tissue Characterization of Heterogeneities of Mesenchymal Stem Cells and Their Differentiation Potentials. Frontiers in Cell and Developmental Biology. 2021. 9:781021. <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2021.781021/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Ruiqing Fu, Pengfei Qin, Xianghui Zou, Zhangli Hu, Ni Hong\*, Yun Wang\*, **Wenfei Jin***. A Comprehensive Characterization of Monoallelic Expression During Hematopoiesis and Leukemogenesis via Single-Cell RNA-Sequencing. Frontiers in Cell and Developmental Biology. 2021. 9:702897. <a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2021.702897/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+Zixiang Luo#, Chenyu Xu#, Zhen Zhang\*, **Wenfei Jin***. A topology-preserving dimensionality reduction method for single-cell RNA-seq data using graph autoencoder. Scientific Reports. 2021. 11(1):20028. <a href="https://www.nature.com/articles/s41598-021-99003-7" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2020
 
