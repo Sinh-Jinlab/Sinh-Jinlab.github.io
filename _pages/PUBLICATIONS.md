@@ -62,6 +62,8 @@ Wei Xu, Yi Wen, Yingying Liang, Qiushi Xu, Xuefei Wang, **Wenfei Jin** & Xi Chen
 
 Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji Zhao\*, **Wenfei Jin***. Diploid genome architecture revealed by multi-omic data of hybrid mice. Genome Research. 2020. 30:1097-1106. <a href="https://genome.cshlp.org/content/30/8/1097.long" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Wei Chen, Xuefei Wang, Gang Wei, Yin Huang, Yufang Shi, Dan Li, Shengnu Qiu, Bin Zhou, Junhong Cao, Meng Chen\*, Pengfei Qin\*, **Wenfei Jin***, Ting Ni\*. Single-Cell Transcriptome Analysis Reveals Six Subpopulations Reflecting Distinct Cellular Fates in Senescent Mouse Embryonic Fibroblasts. Frontiers in Genetics. 2020. 11:867. <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.00867/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 Xuekun Fu#, Bo Zhou#, Qinnan Yan#, Chu Tao, Lei Qin, Xiaohao Wu, Sixiong Lin, Sheng Chen, Yumei Lai, Xuenong Zou, Zengwu Shao, Meiqing Wang, Di Chen, **Wenfei Jin**, Youqiang Song, Huiling Cao\*, Ge Zhang\*, Guozhi Xiao\*. Kindlin-2 regulates skeletal homeostasis by modulating PTH1R in mice. Signal Transduction and Targeted Therapy. 2020. 5(1):297. <a href="https://www.nature.com/articles/s41392-020-00328-y#Ack1" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Jiji T Kurup, Zhijun Han, **Wenfei Jin**, Benjamin L Kidder\*. H4K20me3 methyltransferase SUV420H2 shapes the chromatin landscape of pluripotent embryonic stem cells. Development. 2020. 147(23):dev188516. <a href="https://journals.biologists.com/dev/article/147/23/dev188516/225957/H4K20me3-methyltransferase-SUV420H2-shapes-the" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
@@ -138,6 +140,8 @@ Wei Xu, Yi Wen, Yingying Liang, Qiushi Xu, Xuefei Wang, **Wenfei Jin** & Xi Chen
 ## 2020
 
 Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji Zhao\*, **Wenfei Jin***. 2020. Diploid genome architecture revealed by multi-omic data of hybrid mice. Genome Research. 30:1097-1106. <a href="https://genome.cshlp.org/content/30/8/1097.long" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+Wei Chen, Xuefei Wang, Gang Wei, Yin Huang, Yufang Shi, Dan Li, Shengnu Qiu, Bin Zhou, Junhong Cao, Meng Chen\*, Pengfei Qin\*, **Wenfei Jin***, Ting Ni\*. Single-Cell Transcriptome Analysis Reveals Six Subpopulations Reflecting Distinct Cellular Fates in Senescent Mouse Embryonic Fibroblasts. Frontiers in Genetics. 2020. 11:867. <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.00867/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Xuekun Fu#, Bo Zhou#, Qinnan Yan#, Chu Tao, Lei Qin, Xiaohao Wu, Sixiong Lin, Sheng Chen, Yumei Lai, Xuenong Zou, Zengwu Shao, Meiqing Wang, Di Chen, **Wenfei Jin**, Youqiang Song, Huiling Cao\*, Ge Zhang\*, Guozhi Xiao\*. Kindlin-2 regulates skeletal homeostasis by modulating PTH1R in mice. Signal Transduction and Targeted Therapy. 2020. 5(1):297. <a href="https://www.nature.com/articles/s41392-020-00328-y#Ack1" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
