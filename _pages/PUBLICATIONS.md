@@ -106,6 +106,8 @@ Wan Isa Hatin, Ab Rajab Nur-Shafawati, Ali Etemad, **Wenfei Jin**, Pengfei Qin, 
 
 Shi Yan\*, Chuanchao Wang, Hongxiang Zheng, Wei Wang, Zhendong Qin, Lanhai Wei, Yi Wang, Xuedong Pan, Wenqing Fu, Yungang He, Lijun Xiong, **Wenfei Jin**, Shilin Li, Yu An, Hui Li, Li Jin\*. Y chromosomes of 40% Chinese descend from three Neolithic super-grandfathers. PLoS One. 2014. 9(8):e105691. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105691" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Pengfei Qin#, Zhiqiang Li#, **Wenfei Jin**, Dongsheng Lu, Haiyi Lou, Jiawei Shen, Li Jin\*, Yongyong Shi\*, Shuhua Xu\*. A panel of ancestry informative markers to estimate and correct potential effects of population stratification in Han Chinese. European Journal of Human Genetics. 2014. 22(2):248-53. <a href="https://www.nature.com/articles/ejhg2013111" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 Daniel C Kraushaar#, **Wenfei Jin#**, Alika Maunakea, Brian Abraham, Misook Ha, Keji Zhao\*. Genome-wide incorporation dynamics reveal distinct categories of turnover for the histone variant H3.3. Genome Biology. 2013. 14(10):R121. <a href="https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-10-r121" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Erli Wang#, **Wenfei Jin#**, Wenyuan Duan#, Bin Qiao, Shuna Sun, Guoying Huang, Kaihu Shi, Li Jin\*, Hongyan Wang\*. Association of two variants in SMAD7 with the risk of congenital heart disease in the Han Chinese population. PLoS One. 2013. 8(9):e72423. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072423" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
@@ -233,6 +235,8 @@ Haiyi Lou#, Shilin Li#, **Wenfei Jin**, Ruiqing Fu, Dongsheng Lu, Xinwei Pan, Hu
 Wan Isa Hatin, Ab Rajab Nur-Shafawati, Ali Etemad, **Wenfei Jin**, Pengfei Qin, Shuhua Xu, Li Jin, Soon-Guan Tan, Pornprot Limprasert, Merican Amir Feisal, Mohammed Rizman-Idid, Bin Alwi Zilfalil\*, HUGO Pan-Asian SNP Consortium. A genome wide pattern of population structure and admixture in peninsular Malaysia Malays. The HUGO journal. 2014. 8(1):5. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7735395/" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Shi Yan\*, Chuanchao Wang, Hongxiang Zheng, Wei Wang, Zhendong Qin, Lanhai Wei, Yi Wang, Xuedong Pan, Wenqing Fu, Yungang He, Lijun Xiong, **Wenfei Jin**, Shilin Li, Yu An, Hui Li, Li Jin\*. Y chromosomes of 40% Chinese descend from three Neolithic super-grandfathers. PLoS One. 2014. 9(8):e105691. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105691" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+Pengfei Qin#, Zhiqiang Li#, **Wenfei Jin**, Dongsheng Lu, Haiyi Lou, Jiawei Shen, Li Jin\*, Yongyong Shi\*, Shuhua Xu\*. A panel of ancestry informative markers to estimate and correct potential effects of population stratification in Han Chinese. European Journal of Human Genetics. 2014. 22(2):248-53. <a href="https://www.nature.com/articles/ejhg2013111" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2013
 
