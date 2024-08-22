@@ -80,6 +80,8 @@ Huiling Cao#\*, Qinnan Yan#, Dong Wang#, Yumei Lai, Bo Zhou, Qi Zhang, **Wenfei 
 
 Wei Wang, Gang Ren, Ni Hong\*, **Wenfei Jin***. Exploring the changing landscape of cell-to-cell variation after CTCF knockdown via single cell RNA-seq. BMC Genomics. 2019. 20(1):1015. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6379-5" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Binbin Lai#, Qingsong Tang#, **Wenfei Jin#**, Gangqing Hu#, Darawalee Wangsa, Kairong Cui, Benjamin Z Stanton, Gang Ren, Yi Ding, Ming Zhao, Shuai Liu, Jiuzhou Song, Thomas Ried, Keji Zhao\*. Trac-looping measures genome structure and chromatin accessibility. Nature Methods. 2018. 15(9):741-747. <a href="https://www.nature.com/articles/s41592-018-0107-y" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 Binbin Lai, Weiwu Gao, Kairong Cui, Wanli Xie, Qingsong Tang, **Wenfei Jin**, Gangqing Hu, Bing Ni, Keji Zhao\*. Publisher Correction: Principles of nucleosome organization revealed by single-cell micrococcal nuclease sequencing. Nature. 2018. 564(7735):E17. <a href="https://www.nature.com/articles/s41586-018-0690-1" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Binbin Lai, Weiwu Gao, Kairong Cui, Wanli Xie, Qingsong Tang, **Wenfei Jin**, Gangqing Hu, Bing Ni, Keji Zhao\*. Principles of nucleosome organization revealed by single-cell micrococcal nuclease sequencing. Nature. 2018. 562(7726):281-285. <a href="https://www.nature.com/articles/s41586-018-0567-3" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
@@ -176,6 +178,8 @@ Huiling Cao#\*, Qinnan Yan#, Dong Wang#, Yumei Lai, Bo Zhou, Qi Zhang, **Wenfei 
 Wei Wang, Gang Ren, Ni Hong\*, **Wenfei Jin***. Exploring the changing landscape of cell-to-cell variation after CTCF knockdown via single cell RNA-seq. BMC Genomics. 2019. 20(1):1015. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6379-5" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2018
+
+Binbin Lai#, Qingsong Tang#, **Wenfei Jin#**, Gangqing Hu#, Darawalee Wangsa, Kairong Cui, Benjamin Z Stanton, Gang Ren, Yi Ding, Ming Zhao, Shuai Liu, Jiuzhou Song, Thomas Ried, Keji Zhao\*. Trac-looping measures genome structure and chromatin accessibility. Nature Methods. 2018. 15(9):741-747. <a href="https://www.nature.com/articles/s41592-018-0107-y" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Binbin Lai, Weiwu Gao, Kairong Cui, Wanli Xie, Qingsong Tang, **Wenfei Jin**, Gangqing Hu, Bing Ni, Keji Zhao\*. Publisher Correction: Principles of nucleosome organization revealed by single-cell micrococcal nuclease sequencing. Nature. 2018. 564(7735):E17. <a href="https://www.nature.com/articles/s41586-018-0690-1" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
