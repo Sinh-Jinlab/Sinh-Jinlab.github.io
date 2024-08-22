@@ -24,7 +24,7 @@ layout: single
 
 [53] Tailin He#, Bo Zhou#, Guohuan Sun#, Qinnan Yan, Sixiong Lin, Guixing Ma, Qing Yao, Xiaohao Wu, Yiming Zhong, Donghao Gan, Shaochuan Huo, **Wenfei Jin**, Di Chen, Xiaochun Bai\*, Tao Cheng\*, Huiling Cao\* & Guozhi Xiao\*. The bone-liver interaction modulates immune and hematopoietic function through Pinch-Cxcl12-Mbl2 pathway. Cell Death & Differentiation. 2024. 31(1):90-105. <a href="https://www.nature.com/articles/s41418-023-01243-9" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-[52] Xuefei Wang, Xinchao Wu, Ni Hong, **Wenfei Jin***. Progress in single-cell multimodal sequencing and multi-omics data integration. Biophysical Reviews. 2023. 16(1):13-28. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10937857/pdf/12551_2023_Article_1092.pdf" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+[52] Xuefei Wang, Xinchao Wu, Ni Hong, **Wenfei Jin***. Progress in single-cell multimodal sequencing and multi-omics data integration. Biophysical Reviews. 2023. 16(1):13-28. <a href="https://link.springer.com/article/10.1007/s12551-023-01092-3" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 [51] Jie Zhou#, Guanming Chen#, Jiuling Wang#, Bo Zhou, Xuemin Sun, Jinsong Wang, Shu Tang, Xiangju Xing, Xiaofei Hu, Yang Zhao, Yu Peng, Wenjiong Shi, Tingting Zhao, Yuzhang Wu, Hanbing Zhong, Ni Hong, Zhihua Ruan\*, Yi Zhang\*, **Wenfei Jin***. Anti-PD-1 therapy achieves favorable outcomes in HBV-positive non-liver cancer. Oncogenesis. 2023. 12(1):22. <a href="https://www.nature.com/articles/s41389-023-00468-0" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
@@ -144,7 +144,7 @@ layout: single
 
 ## 2023
 
-[6] Xuefei Wang, Xinchao Wu, Ni Hong, **Wenfei Jin***. Progress in single-cell multimodal sequencing and multi-omics data integration. Biophysical Reviews. 2023. 16(1):13-28. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10937857/pdf/12551_2023_Article_1092.pdf" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+[6] Xuefei Wang, Xinchao Wu, Ni Hong, **Wenfei Jin***. Progress in single-cell multimodal sequencing and multi-omics data integration. Biophysical Reviews. 2023. 16(1):13-28. <a href="https://link.springer.com/article/10.1007/s12551-023-01092-3" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a> 
 
 [5] Jie Zhou#, Guanming Chen#, Jiuling Wang#, Bo Zhou, Xuemin Sun, Jinsong Wang, Shu Tang, Xiangju Xing, Xiaofei Hu, Yang Zhao, Yu Peng, Wenjiong Shi, Tingting Zhao, Yuzhang Wu, Hanbing Zhong, Ni Hong, Zhihua Ruan\*, Yi Zhang\*, **Wenfei Jin***. Anti-PD-1 therapy achieves favorable outcomes in HBV-positive non-liver cancer. Oncogenesis. 2023. 12(1):22. <a href="https://www.nature.com/articles/s41389-023-00468-0" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
