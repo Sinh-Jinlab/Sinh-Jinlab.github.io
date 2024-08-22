@@ -60,6 +60,8 @@ Nonthaphat Kent Wong#, Shumeng Luo#, Eudora Y D Chow, Fei Meng, Adenike Adesanya
 
 Wei Xu, Yi Wen, Yingying Liang, Qiushi Xu, Xuefei Wang, **Wenfei Jin** & Xi Chen\*. A plate-based single-cell ATAC-seq workflow for fast and robust profiling of chromatin accessibility. Nature Protocols. 2021. 16(8):4084-4107. <a href="https://www.nature.com/articles/s41596-021-00583-5" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Bo Zhou, **Wenfei Jin***. Visualization of Single Cell RNA-Seq Data Using t-SNE in R. Methods in Molecular Biology. 2020. 2117:159-167. <a href="https://link.springer.com/protocol/10.1007/978-1-0716-0301-7_8" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji Zhao\*, **Wenfei Jin***. Diploid genome architecture revealed by multi-omic data of hybrid mice. Genome Research. 2020. 30:1097-1106. <a href="https://genome.cshlp.org/content/30/8/1097.long" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Wei Chen, Xuefei Wang, Gang Wei, Yin Huang, Yufang Shi, Dan Li, Shengnu Qiu, Bin Zhou, Junhong Cao, Meng Chen\*, Pengfei Qin\*, **Wenfei Jin***, Ting Ni\*. Single-Cell Transcriptome Analysis Reveals Six Subpopulations Reflecting Distinct Cellular Fates in Senescent Mouse Embryonic Fibroblasts. Frontiers in Genetics. 2020. 11:867. <a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2020.00867/full" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
@@ -142,6 +144,8 @@ Nonthaphat Kent Wong#, Shumeng Luo#, Eudora Y D Chow, Fei Meng, Adenike Adesanya
 Wei Xu, Yi Wen, Yingying Liang, Qiushi Xu, Xuefei Wang, **Wenfei Jin** & Xi Chen\*. A plate-based single-cell ATAC-seq workflow for fast and robust profiling of chromatin accessibility. Nature Protocols. 2021. 16(8):4084-4107. <a href="https://www.nature.com/articles/s41596-021-00583-5" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2020
+
+Bo Zhou, **Wenfei Jin***. Visualization of Single Cell RNA-Seq Data Using t-SNE in R. Methods in Molecular Biology. 2020. 2117:159-167. <a href="https://link.springer.com/protocol/10.1007/978-1-0716-0301-7_8" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Zhijun Han, Cui Kairong, Katarzyna Placek, Ni Hong, Chengqi Lin, Wei Chen, Keji Zhao\*, **Wenfei Jin***. 2020. Diploid genome architecture revealed by multi-omic data of hybrid mice. Genome Research. 30:1097-1106. <a href="https://genome.cshlp.org/content/30/8/1097.long" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
