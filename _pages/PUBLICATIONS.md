@@ -98,6 +98,8 @@ Daniel C Kraushaar#, **Wenfei Jin#**, Alika Maunakea, Brian Abraham, Misook Ha, 
 
 Hao Hu#\*, Xiang Liu#, **Wenfei Jin**, H Hilger Ropers, Thomas F Wienker. Evaluating information content of SNPs for sample-tagging in re-sequencing projects. Scientific Reports. 2015. 5:10247. <a href="https://www.nature.com/articles/srep10247" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Haiyi Lou#, Shilin Li#, **Wenfei Jin**, Ruiqing Fu, Dongsheng Lu, Xinwei Pan, Huaigu Zhou, Yuan Ping, Li Jin, Shuhua Xu\*. Copy number variations and genetic admixtures in three Xinjiang ethnic minority groups. European Journal of Human Genetics. 2015. 23(4):536-42. <a href="https://www.nature.com/articles/ejhg2014134" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 **Wenfei Jin**, Ran Li, Ying Zhou, Shuhua Xu\*. Distribution of Ancestral Chromosomal Segments in Admixed Genomes and Its Implications for Inferring Population History and Admixture Mapping. European Journal of Human Genetics. 2014. 22: 930-937. <a href="https://www.nature.com/articles/ejhg2013265" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Wan Isa Hatin, Ab Rajab Nur-Shafawati, Ali Etemad, **Wenfei Jin**, Pengfei Qin, Shuhua Xu, Li Jin, Soon-Guan Tan, Pornprot Limprasert, Merican Amir Feisal, Mohammed Rizman-Idid, Bin Alwi Zilfalil\*, HUGO Pan-Asian SNP Consortium. A genome wide pattern of population structure and admixture in peninsular Malaysia Malays. The HUGO journal. 2014. 8(1):5. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7735395/" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
@@ -217,6 +219,8 @@ Daniel C Kraushaar#, **Wenfei Jin#**, Alika Maunakea, Brian Abraham, Misook Ha, 
 **Wenfei Jin#**, Qingsong Tang#, Mimi Wan, Kairong Cui, Yi Zhang, Gang Ren, Bing Ni, Jeffrey Sklar, Teresa M Przytycka, Richard Childs, David Levens, Keji Zhao\*. Genome-wide detection of DNase I hypersensitive sites in single cells and FFPE tissue samples. Nature. 2015. 528(7580):142-6. <a href="https://www.nature.com/articles/nature15740" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 Hao Hu#\*, Xiang Liu#, **Wenfei Jin**, H Hilger Ropers, Thomas F Wienker. Evaluating information content of SNPs for sample-tagging in re-sequencing projects. Scientific Reports. 2015. 5:10247. <a href="https://www.nature.com/articles/srep10247" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+Haiyi Lou#, Shilin Li#, **Wenfei Jin**, Ruiqing Fu, Dongsheng Lu, Xinwei Pan, Huaigu Zhou, Yuan Ping, Li Jin, Shuhua Xu\*. Copy number variations and genetic admixtures in three Xinjiang ethnic minority groups. European Journal of Human Genetics. 2015. 23(4):536-42. <a href="https://www.nature.com/articles/ejhg2014134" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2014
 
