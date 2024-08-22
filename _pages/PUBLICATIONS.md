@@ -122,6 +122,8 @@ Shuhua Xu\*, **Wenfei Jin**. Population Genetics in the Genomic Era (Book Chapte
 
 Haiyi Lou#, Shilin Li#, Yajun Yang, Longli Kang, Xin Zhang, **Wenfei Jin**, Bailin Wu, Li Jin\*, Shuhua Xu\*. A map of copy number variations in Chinese populations. PLoS One. 2011. 6(11):e27341. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027341" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Shuhua Xu\*, Shilin Li, Yajun Yang, Jingze Tan, Haiyi Lou, **Wenfei Jin**, Ling Yang, Xuedong Pan, Jiucun Wang, Yiping Shen, Bailin Wu, Hongyan Wang, Li Jin\*. A genome-wide search for signals of high-altitude adaptation in Tibetans. Molecular Biology and Evolution. 2011. 28(2):1003-11. <a href="https://academic.oup.com/mbe/article/28/2/1003/1215735" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 # All publications
 
 ## 2024
@@ -259,6 +261,8 @@ Shuhua Xu\*, **Wenfei Jin**. Population Genetics in the Genomic Era (Book Chapte
 ## 2011
 
 Haiyi Lou#, Shilin Li#, Yajun Yang, Longli Kang, Xin Zhang, **Wenfei Jin**, Bailin Wu, Li Jin\*, Shuhua Xu\*. A map of copy number variations in Chinese populations. PLoS One. 2011. 6(11):e27341. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027341" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+Shuhua Xu\*, Shilin Li, Yajun Yang, Jingze Tan, Haiyi Lou, **Wenfei Jin**, Ling Yang, Xuedong Pan, Jiucun Wang, Yiping Shen, Bailin Wu, Hongyan Wang, Li Jin\*. A genome-wide search for signals of high-altitude adaptation in Tibetans. Molecular Biology and Evolution. 2011. 28(2):1003-11. <a href="https://academic.oup.com/mbe/article/28/2/1003/1215735" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2009
 
