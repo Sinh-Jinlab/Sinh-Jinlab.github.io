@@ -124,6 +124,9 @@ Haiyi Lou#, Shilin Li#, Yajun Yang, Longli Kang, Xin Zhang, **Wenfei Jin**, Bail
 
 Shuhua Xu\*, Shilin Li, Yajun Yang, Jingze Tan, Haiyi Lou, **Wenfei Jin**, Ling Yang, Xuedong Pan, Jiucun Wang, Yiping Shen, Bailin Wu, Hongyan Wang, Li Jin\*. A genome-wide search for signals of high-altitude adaptation in Tibetans. Molecular Biology and Evolution. 2011. 28(2):1003-11. <a href="https://academic.oup.com/mbe/article/28/2/1003/1215735" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Shuhua Xu#, Xianyong Yin#, Shilin Li, **Wenfei Jin**, Haiyi Lou, Ling Yang, Xiaohong Gong, Hongyan Wang, Yiping Shen, Xuedong Pan, Yungang He, Yajun Yang, Yi Wang, Wenqing Fu, Yu An, Jiucun Wang, Jingze Tan, Ji Qian, Xiaoli Chen, Xin Zhang, Yangfei Sun, Xuejun Zhang, Bailin Wu, Li Jin\*. Genomic dissection of population substructure of Han Chinese and its implication in association studies. The American Journal of Human Genetics. 2009. 85(6):762-74. 
+
+
 # All publications
 
 ## 2024
@@ -265,5 +268,7 @@ Haiyi Lou#, Shilin Li#, Yajun Yang, Longli Kang, Xin Zhang, **Wenfei Jin**, Bail
 Shuhua Xu\*, Shilin Li, Yajun Yang, Jingze Tan, Haiyi Lou, **Wenfei Jin**, Ling Yang, Xuedong Pan, Jiucun Wang, Yiping Shen, Bailin Wu, Hongyan Wang, Li Jin\*. A genome-wide search for signals of high-altitude adaptation in Tibetans. Molecular Biology and Evolution. 2011. 28(2):1003-11. <a href="https://academic.oup.com/mbe/article/28/2/1003/1215735" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2009
+
+Shuhua Xu#, Xianyong Yin#, Shilin Li, **Wenfei Jin**, Haiyi Lou, Ling Yang, Xiaohong Gong, Hongyan Wang, Yiping Shen, Xuedong Pan, Yungang He, Yajun Yang, Yi Wang, Wenqing Fu, Yu An, Jiucun Wang, Jingze Tan, Ji Qian, Xiaoli Chen, Xin Zhang, Yangfei Sun, Xuejun Zhang, Bailin Wu, Li Jin\*. Genomic dissection of population substructure of Han Chinese and its implication in association studies. The American Journal of Human Genetics. 2009. 85(6):762-74. 
 
 
