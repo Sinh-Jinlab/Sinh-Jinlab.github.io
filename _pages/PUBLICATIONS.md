@@ -120,6 +120,8 @@ Shuhua Xu\*, **Wenfei Jin**. Population Genetics in the Genomic Era (Book Chapte
 
 **Wenfei Jin**, Shuhua Xu\*, Haifeng Wang, Yongguo Li, Yiping Shen, Bailin Wu, Li Jin\*. Genome-Wide Detection of Natural Selection in African Americans Pre-and Post-Admixture. Genome Research. 2012. 22 (3):519-527. <a href="https://genome.cshlp.org/content/22/3/519.long" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
+Haiyi Lou#, Shilin Li#, Yajun Yang, Longli Kang, Xin Zhang, **Wenfei Jin**, Bailin Wu, Li Jin\*, Shuhua Xu\*. A map of copy number variations in Chinese populations. PLoS One. 2011. 6(11):e27341. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027341" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 # All publications
 
 ## 2024
@@ -253,5 +255,11 @@ Shuhua Xu\*, **Wenfei Jin**. Population Genetics in the Genomic Era (Book Chapte
 **Wenfei Jin**, Pengfei Qin, Haiyi Lou, Li Jin\*, Shuhua Xu\*. A Systematic Characterization of Genes Underlying both Complex and Mendelian Diseases. Human Molecular Genetics. 2012. 21(7):1611-1624. <a href="https://academic.oup.com/hmg/article/21/7/1611/2900796?login=true" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 **Wenfei Jin**, Shuhua Xu\*, Haifeng Wang, Yongguo Li, Yiping Shen, Bailin Wu, Li Jin\*. Genome-Wide Detection of Natural Selection in African Americans Pre-and Post-Admixture. Genome Research. 2012. 22 (3):519-527. <a href="https://genome.cshlp.org/content/22/3/519.long" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+## 2011
+
+Haiyi Lou#, Shilin Li#, Yajun Yang, Longli Kang, Xin Zhang, **Wenfei Jin**, Bailin Wu, Li Jin\*, Shuhua Xu\*. A map of copy number variations in Chinese populations. PLoS One. 2011. 6(11):e27341. <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027341" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+## 2009
 
 
