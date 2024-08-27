@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/img/photos/tQVZB3C5.jpg
+  overlay_image: /assets/img/photos/pSxqrvEjwD_small.jpg
 # excerpt: " <br> <br> <br>"
 intro: 
   - excerpt: 'The Laboratory of Multi-omics and Tumor (MOT) is recruiting graduate students, postdocs, and research scientists.'
