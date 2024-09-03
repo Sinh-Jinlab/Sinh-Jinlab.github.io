@@ -102,6 +102,12 @@ feature_row:
     excerpt: >
       Ph.D Student <br>
       huyue2023:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/万佳芳.jpg
+    alt: "placeholder image 2"
+    title: "WAN Jiafang"
+    excerpt: >
+      Ph.D Student <br>
+      wanjiafang2020:paperclip:sinh**.**ac**.**cn
 
     
 feature_row2:
