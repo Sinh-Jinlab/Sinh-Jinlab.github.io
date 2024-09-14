@@ -35,7 +35,7 @@ feature_row:
     title: "WANG Junliang"
     excerpt: >
       Postdoc <br>
-      jimmyMall:paperclip:163**.**com
+      jlwang:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/潘雨闻.jpg
     alt: "placeholder image 2"
     title: "PAN Yuwen"
