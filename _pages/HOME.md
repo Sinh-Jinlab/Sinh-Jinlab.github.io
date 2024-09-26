@@ -8,26 +8,27 @@ header:
   overlay_image: /assets/img/home/e723b5cc54f1b108214c30ebcf8c5d0c.jpeg
 excerpt: 'The long-term goal of **MOT (PI: JIN Wenfei)**  is to develop efficient personalized treatment for cancers based on patients’ genetic background. In the near future, the lab will focus on investigating genetic/epigenetic heterogeneity and micro-evolution of cancer cells using single cell sequencing related technologies.'
 feature_row1:
+  - image_path: /assets/img/home/scMMO-atlas.png
+    title: "scMMO-atlas: a single cell multimodal omics atlas and portal for exploring fine cell heterogeneity and cell dynamics"
+
+    url: "/PUBLICATIONS/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+feature_row2:
   - image_path: /assets/img/home/Wenfei-Jin12.png
     title: "Sirpα on tumor-associated myeloid cells restrains anti-tumor immunity in colorectal cancer independent of its interaction with CD47"
     
     url: "/PUBLICATIONS/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-feature_row2:
+feature_row3:
   - image_path: /assets/img/home/151671068743787022.jpg
     title: "Comprehensive mapping of alternative polyadenylation site usage and its dynamics at single-cell resolution"
    
     url: "/PUBLICATIONS/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-feature_row3:
-  - image_path: /assets/img/home/231663896376256431.jpg
-    title: "ISSAAC-seq enables sensitive and flexible multimodal profiling of chromatin accessibility and gene expression in single cells"
-   
-    url: "/PUBLICATIONS/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    
 
 ---
 {% include feature_row id="feature_row1" type="right" %}
