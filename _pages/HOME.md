@@ -11,7 +11,7 @@ feature_row1:
   - image_path: /assets/img/home/scMMO-atlas.png
     title: "scMMO-atlas: a single cell multimodal omics atlas and portal for exploring fine cell heterogeneity and cell dynamics"
 
-    url: "/PUBLICATIONS/"
+    url: "http://www.sinh.ac.cn/kxyj/kyjz/202409/t20240927_7382373.html"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row2:
