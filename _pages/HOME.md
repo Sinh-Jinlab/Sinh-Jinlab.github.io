@@ -18,7 +18,7 @@ feature_row2:
   - image_path: /assets/img/home/Wenfei-Jin12.png
     title: "Sirpα on tumor-associated myeloid cells restrains anti-tumor immunity in colorectal cancer independent of its interaction with CD47"
     
-    url: "/PUBLICATIONS/"
+    url: "https://newshub.sustech.edu.cn/en/html/202401/41560.html"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 feature_row3:
