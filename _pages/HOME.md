@@ -25,7 +25,7 @@ feature_row3:
   - image_path: /assets/img/home/151671068743787022.jpg
     title: "Comprehensive mapping of alternative polyadenylation site usage and its dynamics at single-cell resolution"
    
-    url: "/PUBLICATIONS/"
+    url: "https://newshub.sustech.edu.cn/en/html/202212/37877.html"
     btn_class: "btn--primary"
     btn_label: "Learn more"
     
