@@ -14,7 +14,7 @@ layout: single
 
 # Selected publications
 
-[58] Weilong Yang\*, Jian-Kang Zhu\* and **Wenfei Jin***. A catalog of gene editing sites and genetic variations in editing sites in model organisms. BMC Genomics. 2024. 25(1):1153. <a href="" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+[58] Weilong Yang\*, Jian-Kang Zhu\* and **Wenfei Jin***. A catalog of gene editing sites and genetic variations in editing sites in model organisms. BMC Genomics. 2024. 25(1):1153. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-11073-9" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 [57] Wenwen Cheng, Changhui Yin, Shiya Yu, Xi Chen, Ni Hong, **Wenfei Jin***. scMMO-atlas: a single cell multimodal omics atlas and portal for exploring fine cell heterogeneity and cell dynamics. Nucleic Acids Research. 2024. 1-9. <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae821/7771567?login=true" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
