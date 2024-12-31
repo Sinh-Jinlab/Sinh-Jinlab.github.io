@@ -13,13 +13,13 @@ header:
 # excerpt: " <br> <br> <br>"
 feature_row:
   - image_path: /assets/img/pic/浦靖.jpg
-    alt: "xxx"
+    alt: "placeholder image 2"
     title: "PU Jing"
     excerpt: >
       Research Assistant <br>
       pujing:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/孙靖.png
-    alt: "123"
+    alt: "placeholder image 2"
     title: "SUN Jing"
     excerpt: >
       Research Assistant <br>
