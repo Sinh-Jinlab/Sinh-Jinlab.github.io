@@ -36,12 +36,6 @@ feature_row:
     excerpt: >
       Postdoc <br>
       jlwang:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/潘雨闻.jpg
-    alt: "placeholder image 2"
-    title: "PAN Yuwen"
-    excerpt: >
-      Postdoc <br>
-      panyuwen2017:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/宋倩倩.jpg
     alt: "placeholder image 2"
     title: "SONG Qianqian"
