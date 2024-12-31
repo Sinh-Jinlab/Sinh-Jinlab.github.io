@@ -114,7 +114,12 @@ feature_row:
     excerpt: >
       Ph.D Student <br>
       aixinlu2022:paperclip:sinh**.**ac**.**cn
-
+  - image_path: /assets/img/pic/王艺萱.jpg
+    alt: "placeholder image 2"
+    title: "WANG Yixuan"
+    excerpt: >
+      Ph.D Student <br>
+      wangyixuan2024:paperclip:sinh**.**ac**.**cn
     
 feature_row2:
   - image_path: /assets/img/pic/靳文菲.jpg
