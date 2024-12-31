@@ -108,6 +108,12 @@ feature_row:
     excerpt: >
       Ph.D Student <br>
       wanjiafang2020:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/艾新泸.jpg
+    alt: "placeholder image 2"
+    title: "AI Xinlu"
+    excerpt: >
+      Ph.D Student <br>
+      aixinlu2022:paperclip:sinh**.**ac**.**cn
 
     
 feature_row2:
