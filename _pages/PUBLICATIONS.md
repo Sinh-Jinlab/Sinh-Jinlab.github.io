@@ -134,6 +134,10 @@ layout: single
 
 # All publications
 
+## 2025
+
+[1] Bo Zhou#, Hongwen Huang#, Zhen Ding#, Kaiwen Luo, Yangshan Chen, Yingying Han, Wei Pang, Wanze Tang, Litong Chen, **Wenfei Jin***, Guixing Ma\*, Huiling Cao\*. Unveiling two distinct osteolineage cell populations linked to age‐related osteoporosis in adult mice through integrative single‐cell analyses. Cellular and Molecular Life Sciences. 2025. 82(1):106. <a href="https://link.springer.com/article/10.1007/s00018-025-05597-w" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 ## 2024
 
 [7] Weilong Yang\*, Jian-Kang Zhu\* and **Wenfei Jin***. A catalog of gene editing sites and genetic variations in editing sites in model organisms. BMC Genomics. 2024. 25(1):1153. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-11073-9" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
