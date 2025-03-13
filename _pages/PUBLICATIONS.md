@@ -18,7 +18,7 @@ layout: single
 
 [58] Weilong Yang\*, Jian-Kang Zhu\* and **Wenfei Jin***. A catalog of gene editing sites and genetic variations in editing sites in model organisms. BMC Genomics. 2024. 25(1):1153. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-11073-9" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
-[57] Wenwen Cheng, Changhui Yin, Shiya Yu, Xi Chen, Ni Hong, **Wenfei Jin***. scMMO-atlas: a single cell multimodal omics atlas and portal for exploring fine cell heterogeneity and cell dynamics. Nucleic Acids Research. 2024. 1-9. <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae821/7771567?login=true" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+[57] Wenwen Cheng, Changhui Yin, Shiya Yu, Xi Chen, Ni Hong, **Wenfei Jin***. scMMO-atlas: a single cell multimodal omics atlas and portal for exploring fine cell heterogeneity and cell dynamics. Nucleic Acids Research. 2024. 1-9. <a href="https://academic.oup.com/nar/article/53/D1/D1186/7771567?login=true" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 [56] Wei Cao, Xuefei Wang, Kaiwen Luo, Yang Li, Jiahong Sun, Ruqing Fu, Qi Zhang, Ni Hong\*, Edwin Cheung\*, **Wenfei Jin***. Single cell analyses of cancer cells identified two regulatorily and functionally distinct categories in differentially expressed genes among tumor subclones. Heliyon. 2024. 10(6):e28071. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10958426/pdf/main.pdf" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
