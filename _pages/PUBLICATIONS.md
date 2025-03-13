@@ -136,6 +136,10 @@ layout: single
 
 ## 2024
 
+[7] Weilong Yang\*, Jian-Kang Zhu\* and **Wenfei Jin***. A catalog of gene editing sites and genetic variations in editing sites in model organisms. BMC Genomics. 2024. 25(1):1153. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-11073-9" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+[6] Wenwen Cheng, Changhui Yin, Shiya Yu, Xi Chen, Ni Hong, **Wenfei Jin***. scMMO-atlas: a single cell multimodal omics atlas and portal for exploring fine cell heterogeneity and cell dynamics. Nucleic Acids Research. 2024. 53(D1):D1186-D1194. <a href="https://academic.oup.com/nar/article/53/D1/D1186/7771567?login=true" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
 [5] Wei Cao, Xuefei Wang, Kaiwen Luo, Yang Li, Jiahong Sun, Ruqing Fu, Qi Zhang, Ni Hong\*, Edwin Cheung\*, **Wenfei Jin***. Single cell analyses of cancer cells identified two regulatorily and functionally distinct categories in differentially expressed genes among tumor subclones. Heliyon. 2024. 10(6):e28071. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10958426/pdf/main.pdf" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 [4] Guanqun Ren#, Yime Zhang#, Jiamin Liu#, Wenwen Cheng#, Di Wu, Mengwei Han, Yanyu Zeng, Xingyu Zhao, Luni Hu, Min Zeng, Rama Krishna Gurram, Xiaole Hu, Bo Zhou, Zhiyuan Hou, Jinfang Zhu, **Wenfei Jin***, Chao Zhong\*. Decreased GATA3 levels cause changed mouse cutaneous innate lymphoid cell fate, facilitating hair follicle recycling. Developmental Cell. 2024. 59:1-15. <a href="https://www.cell.com/developmental-cell/abstract/S1534-5807(24)00268-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1534580724002685%3Fshowall%3Dtrue" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
