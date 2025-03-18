@@ -114,6 +114,12 @@ feature_row:
     excerpt: >
       Ph.D Student <br>
       wangyixuan2024:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/胡晨阳.jpg
+    alt: "placeholder image 2"
+    title: "HU Chenyang"
+    excerpt: >
+      Ph.D Student <br>
+      huchenyang2024:paperclip:sinh**.**ac**.**cn
     
 feature_row2:
   - image_path: /assets/img/pic/靳文菲.jpg
