@@ -14,7 +14,9 @@ layout: single
 
 # Selected publications
 
-[59] Bo Zhou#, Hongwen Huang#, Zhen Ding#, Kaiwen Luo, Yangshan Chen, Yingying Han, Wei Pang, Wanze Tang, Litong Chen, **Wenfei Jin***, Guixing Ma\*, Huiling Cao\*. Unveiling two distinct osteolineage cell populations linked to age‐related osteoporosis in adult mice through integrative single‐cell analyses. Cellular and Molecular Life Sciences. 2025. 82(1):106. <a href="https://link.springer.com/article/10.1007/s00018-025-05597-w" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+[60] Bo Zhou#, Hongwen Huang#, Zhen Ding#, Kaiwen Luo, Yangshan Chen, Yingying Han, Wei Pang, Wanze Tang, Litong Chen, **Wenfei Jin***, Guixing Ma\*, Huiling Cao\*. Unveiling two distinct osteolineage cell populations linked to age‐related osteoporosis in adult mice through integrative single‐cell analyses. Cellular and Molecular Life Sciences. 2025. 82(1):106. <a href="https://link.springer.com/article/10.1007/s00018-025-05597-w" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+[59] Xuefei Wang, Meng Dong, Xinchao Wu, Daniel Schnepf, Julia Thiel, Wenfei Sun, Christian Wolfrum, Sisi Li, **Wenfei Jin***, Peter Staeheli\*, Liang Ye\*. Single-cell transcriptomics reveals a compartmentalized antiviral interferon response in the nasal epithelium of mice. Journal of Virology. 2025. 99(3):e0141324. <a href="https://journals.asm.org/doi/full/10.1128/jvi.01413-24?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 [58] Weilong Yang\*, Jian-Kang Zhu\* and **Wenfei Jin***. A catalog of gene editing sites and genetic variations in editing sites in model organisms. BMC Genomics. 2024. 25(1):1153. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-024-11073-9" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
@@ -136,7 +138,9 @@ layout: single
 
 ## 2025
 
-[1] Bo Zhou#, Hongwen Huang#, Zhen Ding#, Kaiwen Luo, Yangshan Chen, Yingying Han, Wei Pang, Wanze Tang, Litong Chen, **Wenfei Jin***, Guixing Ma\*, Huiling Cao\*. Unveiling two distinct osteolineage cell populations linked to age‐related osteoporosis in adult mice through integrative single‐cell analyses. Cellular and Molecular Life Sciences. 2025. 82(1):106. <a href="https://link.springer.com/article/10.1007/s00018-025-05597-w" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+[2] Bo Zhou#, Hongwen Huang#, Zhen Ding#, Kaiwen Luo, Yangshan Chen, Yingying Han, Wei Pang, Wanze Tang, Litong Chen, **Wenfei Jin***, Guixing Ma\*, Huiling Cao\*. Unveiling two distinct osteolineage cell populations linked to age‐related osteoporosis in adult mice through integrative single‐cell analyses. Cellular and Molecular Life Sciences. 2025. 82(1):106. <a href="https://link.springer.com/article/10.1007/s00018-025-05597-w" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+
+[1] Xuefei Wang, Meng Dong, Xinchao Wu, Daniel Schnepf, Julia Thiel, Wenfei Sun, Christian Wolfrum, Sisi Li, **Wenfei Jin***, Peter Staeheli\*, Liang Ye\*. Single-cell transcriptomics reveals a compartmentalized antiviral interferon response in the nasal epithelium of mice. Journal of Virology. 2025. 99(3):e0141324. <a href="https://journals.asm.org/doi/full/10.1128/jvi.01413-24?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 ## 2024
 
