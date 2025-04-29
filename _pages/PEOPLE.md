@@ -53,7 +53,7 @@ feature_row:
     title: "LU Dongsheng"
     excerpt: >
       Visiting Scientist <br>
-      ludongsheng.picb:paperclip:qq**.**com
+      dslu:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/杨嘉欣.jpg
     alt: "placeholder image 2"
     title: "YANG Jiaxin"
