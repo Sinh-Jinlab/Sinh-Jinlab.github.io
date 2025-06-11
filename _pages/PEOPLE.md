@@ -48,6 +48,12 @@ feature_row:
     excerpt: >
       Postdoc <br>
       yzwang:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/程文文.jpg
+    alt: "placeholder image 2"
+    title: "CHENG Wenwen"
+    excerpt: >
+      Postdoc <br>
+      12131301:paperclip:mail**.**sustech**.**edu**.**cn
   - image_path: /assets/img/pic/鲁东胜.jpg
     alt: "placeholder image 2"
     title: "LU Dongsheng"
