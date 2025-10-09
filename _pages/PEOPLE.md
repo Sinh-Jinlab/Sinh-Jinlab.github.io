@@ -18,12 +18,6 @@ feature_row:
     excerpt: >
       Research Assistant <br>
       pujing:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/孙靖.png
-    alt: "placeholder image 2"
-    title: "SUN Jing"
-    excerpt: >
-      Research Assistant <br>
-      sunjing:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/虞诗雅.jpg
     alt: "placeholder image 2"
     title: "YU Shiya"
@@ -54,12 +48,6 @@ feature_row:
     excerpt: >
       Postdoc <br>
       wwcheng:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/鲁东胜.jpg
-    alt: "placeholder image 2"
-    title: "LU Dongsheng"
-    excerpt: >
-      Visiting Scientist <br>
-      dslu:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/杨嘉欣.jpg
     alt: "placeholder image 2"
     title: "YANG Jiaxin"
