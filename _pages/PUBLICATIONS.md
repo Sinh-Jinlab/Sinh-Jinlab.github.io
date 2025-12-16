@@ -14,7 +14,7 @@ layout: single
 
 # Selected publications
 
-[61] Changyuan Huang#, Bin Zeng#, Bo Zhou, Guanming Chen, Qi Zhang, Wenhong Hou, Guozhi Xiao, Li Duan\*, Ni Hong\*, **Wenfei Jin***. Single-cell transcriptomic analysis of chondrocytes in cartilage and pathogenesis of osteoarthritis. Genes & Diseases. 2025. 12(2):101241. <a href="https://link.springer.com/article/10.1007/s00018-025-05597-w" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
+[61] Changyuan Huang#, Bin Zeng#, Bo Zhou, Guanming Chen, Qi Zhang, Wenhong Hou, Guozhi Xiao, Li Duan\*, Ni Hong\*, **Wenfei Jin***. Single-cell transcriptomic analysis of chondrocytes in cartilage and pathogenesis of osteoarthritis. Genes & Diseases. 2025. 12(2):101241. <a href="https://www.sciencedirect.com/science/article/pii/S2352304224000382" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
 [60] Bo Zhou#, Hongwen Huang#, Zhen Ding#, Kaiwen Luo, Yangshan Chen, Yingying Han, Wei Pang, Wanze Tang, Litong Chen, **Wenfei Jin***, Guixing Ma\*, Huiling Cao\*. Unveiling two distinct osteolineage cell populations linked to age‐related osteoporosis in adult mice through integrative single‐cell analyses. Cellular and Molecular Life Sciences. 2025. 82(1):106. <a href="https://link.springer.com/article/10.1007/s00018-025-05597-w" rel="nofollow noopener noreferrer"><i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i></a>
 
