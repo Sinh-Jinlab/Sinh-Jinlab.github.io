@@ -120,6 +120,12 @@ feature_row:
     excerpt: >
       Ph.D Student <br>
       tangguo2025:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/欧阳正.jpg
+    alt: "placeholder image 2"
+    title: "OUYANG Zheng"
+    excerpt: >
+      Ph.D Student <br>
+      ouyangzheng2025:paperclip:sinh**.**ac**.**cn
     
 feature_row2:
   - image_path: /assets/img/pic/靳文菲.jpg
