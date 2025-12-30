@@ -24,12 +24,6 @@ feature_row:
     excerpt: >
       Postdoc <br>
       syyu:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/王军亮.jpg
-    alt: "placeholder image 2"
-    title: "WANG Junliang"
-    excerpt: >
-      Postdoc <br>
-      jlwang:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/宋倩倩.jpg
     alt: "placeholder image 2"
     title: "SONG Qianqian"
@@ -120,6 +114,12 @@ feature_row:
     excerpt: >
       Ph.D Student <br>
       huchenyang2024:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/唐果.png
+    alt: "placeholder image 2"
+    title: "TANG Guo"
+    excerpt: >
+      Ph.D Student <br>
+      tangguo2025:paperclip:sinh**.**ac**.**cn
     
 feature_row2:
   - image_path: /assets/img/pic/靳文菲.jpg
