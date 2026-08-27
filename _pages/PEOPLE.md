@@ -126,6 +126,18 @@ feature_row:
     excerpt: >
       Ph.D Student <br>
       ouyangzheng2025:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/黄益仁.jpg
+    alt: "placeholder image 2"
+    title: "HUANG Yiren"
+    excerpt: >
+      Ph.D Student <br>
+      huangyiren2026:paperclip:sinh**.**ac**.**cn
+  - image_path: /assets/img/pic/陆志浩.jpg
+    alt: "placeholder image 2"
+    title: "LU Zhihao"
+    excerpt: >
+      Ph.D Student <br>
+      luzhihao2026:paperclip:sinh**.**ac**.**cn
     
 feature_row2:
   - image_path: /assets/img/pic/靳文菲.jpg
