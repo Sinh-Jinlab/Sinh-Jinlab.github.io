@@ -153,6 +153,15 @@ feature_row2:
       Sept 2006 - Dec 2011: Ph.D. in Computational Biology, PICB and University of Chinese Academies of Sciences <br>
       Sept 2001 - Jul 2006: B.Sc. in Biotechnology, Zhengzhou University, China <br></small>
       <br>
+
+feature_row3:
+Alumni
+  - image_path: /assets/img/pic/虞诗雅.jpg
+    alt: "placeholder image 2"
+    title: "YU Shiya"
+    excerpt: >
+      Postdoc <br>
+      
 ---
 
 
