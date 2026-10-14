@@ -18,12 +18,6 @@ feature_row:
     excerpt: >
       Research Assistant <br>
       pujing:paperclip:sinh**.**ac**.**cn
-  - image_path: /assets/img/pic/虞诗雅.jpg
-    alt: "placeholder image 2"
-    title: "YU Shiya"
-    excerpt: >
-      Postdoc <br>
-      syyu:paperclip:sinh**.**ac**.**cn
   - image_path: /assets/img/pic/宋倩倩.jpg
     alt: "placeholder image 2"
     title: "SONG Qianqian"
